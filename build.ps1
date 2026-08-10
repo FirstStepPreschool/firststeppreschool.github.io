@@ -40,25 +40,25 @@ function Build-Page {
   Write-Host "Built: $Out"
 }
 
-$rootTitle = 'First Step Preschool, Satpur Nashik | Playgroup to Senior KG'
+$rootTitle = 'First Step Preschool'
 $rootDesc = "Shri Swami Samarth Krupa Foundation's First Step Preschool, Nashik. Playgroup, Nursery, Junior KG and Senior KG for children aged 2 to 6 years."
 
-$aboutTitle = 'About First Step Preschool | Satpur, Nashik'
+$aboutTitle = 'First Step Preschool'
 $aboutDesc = 'First Step Preschool is run by Shri Swami Samarth Krupa Foundation in Satpur, Nashik. Our story, vision, mission and the values we bring to every child.'
 
-$programsTitle = 'Programs | Playgroup, Nursery, Junior KG, Senior KG - Nashik'
+$programsTitle = 'First Step Preschool'
 $programsDesc = 'Four programs at First Step Preschool, Satpur Nashik: Playgroup, Nursery, Junior KG and Senior KG, for children aged 2 to 6 years.'
 
-$frameworkTitle = 'Our Approach & Growth Framework | First Step Preschool'
+$frameworkTitle = 'First Step Preschool'
 $frameworkDesc = 'The First Step Growth Framework: six areas of child development for ages 2 to 6 - language, numeracy, movement, social skills, confidence and creativity.'
 
-$safetyTitle = 'Safety, Care & Facilities | First Step Preschool, Nashik'
+$safetyTitle = 'First Step Preschool'
 $safetyDesc = 'A 5500 sq ft campus with 2500 sq ft of classrooms, a 3000 sq ft private playground, full CCTV coverage, digital learning setup and van service at First Step Preschool, Satpur, Nashik.'
 
-$admissionsTitle = 'Admissions Open 2026 | First Step Preschool, Satpur Nashik'
+$admissionsTitle = 'First Step Preschool'
 $admissionsDesc = 'Admission enquiry for Playgroup, Nursery, Junior KG and Senior KG at First Step Preschool, Shramik Nagar, Satpur, Nashik. Ages 2 to 6 years.'
 
-$contactTitle = 'Contact & Location | First Step Preschool, Satpur Nashik'
+$contactTitle = 'First Step Preschool'
 $contactDesc = 'Visit First Step Preschool at Plot No. 8, Jay Ganesh Colony No. 1, Shramik Nagar, Satpur, Nashik 422007. Call +91 88500 75624 or WhatsApp us.'
 
 Build-Page -Title $rootTitle -Desc $rootDesc -Prefix '' -Active 'INDEX' -Contents @('index-1.html', 'index-2.html') -Out (Join-Path $root 'index.html')
@@ -69,7 +69,7 @@ Build-Page -Title $safetyTitle -Desc $safetyDesc -Prefix '' -Active 'SAFETY' -Co
 Build-Page -Title $admissionsTitle -Desc $admissionsDesc -Prefix '' -Active 'ADMISSIONS' -Contents @('admissions.html') -Out (Join-Path $root 'admissions.html')
 Build-Page -Title $contactTitle -Desc $contactDesc -Prefix '' -Active 'CONTACT' -Contents @('contact.html') -Out (Join-Path $root 'contact.html')
 
-Build-Page -Title 'Playgroup (2+ years) | First Step Preschool, Nashik' -Desc 'The gentlest possible start. Playgroup is about a child feeling safe away from home for the first time - learning that school is a warm, happy place.' -Prefix '../' -Active 'PROGRAMS' -Contents @('program-playgroup.html') -Out (Join-Path $root 'programs\playgroup.html')
-Build-Page -Title 'Nursery (3+ years) | First Step Preschool, Nashik' -Desc 'Curiosity year. Children ask a hundred questions a day, and Nursery is built around answering them through doing rather than telling.' -Prefix '../' -Active 'PROGRAMS' -Contents @('program-nursery.html') -Out (Join-Path $root 'programs\nursery.html')
-Build-Page -Title 'Junior KG (4+ years) | First Step Preschool, Nashik' -Desc 'The year skills come together. Junior KG turns play into early reading, early writing and early thinking - without ever losing the play.' -Prefix '../' -Active 'PROGRAMS' -Contents @('program-junior-kg.html') -Out (Join-Path $root 'programs\junior-kg.html')
-Build-Page -Title 'Senior KG (5+ years) | First Step Preschool, Nashik' -Desc 'The bridge to big school. Senior KG prepares a child academically, socially and emotionally for Standard 1 - so the change feels exciting, not frightening.' -Prefix '../' -Active 'PROGRAMS' -Contents @('program-senior-kg.html') -Out (Join-Path $root 'programs\senior-kg.html')
+Build-Page -Title 'First Step Preschool' -Desc 'The gentlest possible start. Playgroup is about a child feeling safe away from home for the first time - learning that school is a warm, happy place.' -Prefix '../' -Active 'PROGRAMS' -Contents @('program-playgroup.html') -Out (Join-Path $root 'programs\playgroup.html')
+Build-Page -Title 'First Step Preschool' -Desc 'Curiosity year. Children ask a hundred questions a day, and Nursery is built around answering them through doing rather than telling.' -Prefix '../' -Active 'PROGRAMS' -Contents @('program-nursery.html') -Out (Join-Path $root 'programs\nursery.html')
+Build-Page -Title 'First Step Preschool' -Desc 'The year skills come together. Junior KG turns play into early reading, early writing and early thinking - without ever losing the play.' -Prefix '../' -Active 'PROGRAMS' -Contents @('program-junior-kg.html') -Out (Join-Path $root 'programs\junior-kg.html')
+Build-Page -Title 'First Step Preschool' -Desc 'The bridge to big school. Senior KG prepares a child academically, socially and emotionally for Standard 1 - so the change feels exciting, not frightening.' -Prefix '../' -Active 'PROGRAMS' -Contents @('program-senior-kg.html') -Out (Join-Path $root 'programs\senior-kg.html')
