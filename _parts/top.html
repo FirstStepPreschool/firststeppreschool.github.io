@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{TITLE}}</title>
+  <meta name="author" content="Shri Swami Samarth Krupa Foundation" />
+  <meta name="description" content="{{DESC}}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="First Step Preschool, Nashik" />
+  <link rel="icon" href="{{P}}favicon.png" type="image/png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{P}}assets/styles.css" />
+</head>
+<body>
+  <a class="sr-only" href="#main-content">Skip to main content</a>
+  <header class="site-header">
+    <div class="container header-row">
+      <a class="brand" href="{{P}}index.html" aria-label="First Step Preschool">
+        <img src="{{P}}assets/school-logo.png" alt="First Step Preschool logo - Where Learning Begins" width="512" height="512" />
+        <div class="brand-text">
+          <p class="brand-kicker">Shri Swami Samarth Krupa Foundation's</p>
+          <p class="brand-name">First Step Preschool</p>
+          <p class="brand-sub">Play Group &middot; Nursery &middot; Jr. KG &middot; Sr. KG</p>
+        </div>
+      </a>
+      <div class="header-actions">
+        <a href="tel:+918850075624" class="btn btn-gold btn-call">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-4" aria-hidden="true"><path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"></path></svg>
+          <span class="hidden-sm">+91 88500 75624</span>
+          <span class="shown-sm">Call</span>
+        </a>
+        <button type="button" class="nav-toggle" aria-expanded="false" aria-label="Toggle menu" id="navToggle">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16"></path><path d="M4 12h16"></path><path d="M4 19h16"></path></svg>
+        </button>
+      </div>
+    </div>
+    <nav class="main-nav container" id="mainNav" aria-label="Main navigation">
+      <a {{ACTIVE_INDEX}} href="{{P}}index.html">Home</a>
+      <a {{ACTIVE_ABOUT}} href="{{P}}about.html">About</a>
+      <a {{ACTIVE_PROGRAMS}} href="{{P}}programs.html">Programs</a>
+      <a {{ACTIVE_FRAMEWORK}} href="{{P}}framework.html">Our Approach</a>
+      <a {{ACTIVE_SAFETY}} href="{{P}}safety.html">Safety &amp; Care</a>
+      <a {{ACTIVE_ADMISSIONS}} href="{{P}}admissions.html">Admissions</a>
+      <a {{ACTIVE_CONTACT}} href="{{P}}contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main class="site-main" id="main-content">
