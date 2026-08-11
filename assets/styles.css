@@ -1,20 +1,36 @@
 :root {
   --radius: 1rem;
+  --background: #fffbf3;
   --background: oklch(99% 0.012 85);
+  --foreground: #271143;
   --foreground: oklch(24% 0.09 300);
+  --card: #ffffff;
   --card: oklch(100% 0 0);
+  --card-foreground: #271143;
   --card-foreground: oklch(24% 0.09 300);
+  --primary: #4f0490;
   --primary: oklch(36% 0.19 299);
+  --primary-foreground: #fffbf4;
   --primary-foreground: oklch(99% 0.01 85);
+  --secondary: #f1eaff;
   --secondary: oklch(95% 0.03 300);
+  --secondary-foreground: #4f0490;
   --secondary-foreground: oklch(36% 0.19 299);
+  --muted: #f6f1e7;
   --muted: oklch(96% 0.015 85);
+  --muted-foreground: #625776;
   --muted-foreground: oklch(48% 0.05 300);
+  --accent: #f9b73f;
   --accent: oklch(82% 0.15 78);
+  --accent-foreground: #33125a;
   --accent-foreground: oklch(28% 0.12 299);
+  --border: #e1daf0;
   --border: oklch(90% 0.03 300);
+  --input: #e1daf0;
   --input: oklch(90% 0.03 300);
+  --ring: #4f0490;
   --ring: oklch(36% 0.19 299);
+  --cream: #fdf4e3;
   --cream: oklch(97% 0.025 85);
   --purple: #4f0490;
   --gold: #f9b73f;
@@ -226,12 +242,12 @@ svg {
 }
 
 .btn-outline {
-  border: 2px solid color-mix(in oklab, var(--primary-foreground) 30%, transparent);
+  border: 2px solid rgba(255, 251, 244, 0.3);
   color: var(--primary-foreground);
 }
 
 .btn-outline:hover {
-  background: color-mix(in oklab, var(--primary-foreground) 10%, transparent);
+  background: rgba(255, 251, 244, 0.1);
 }
 
 .nav-toggle {
@@ -403,7 +419,7 @@ svg {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  color: color-mix(in oklab, var(--accent-foreground) 70%, transparent);
+  color: rgba(51, 18, 90, 0.7);
 }
 
 .section-title {
@@ -452,7 +468,7 @@ svg {
   right: -6rem;
   width: 20rem;
   height: 20rem;
-  background: color-mix(in oklab, var(--accent) 20%, transparent);
+  background: rgba(249, 183, 63, 0.2);
 }
 
 .hero-blob-2 {
@@ -460,7 +476,7 @@ svg {
   left: -5rem;
   width: 24rem;
   height: 24rem;
-  background: color-mix(in oklab, var(--accent) 10%, transparent);
+  background: rgba(249, 183, 63, 0.1);
 }
 
 .hero-inner {
@@ -482,7 +498,7 @@ svg {
   align-items: center;
   gap: 0.5rem;
   border-radius: 999px;
-  background: color-mix(in oklab, var(--primary-foreground) 10%, transparent);
+  background: rgba(255, 251, 244, 0.1);
   padding: 0.375rem 1rem;
   font-size: 0.75rem;
   font-weight: 700;
@@ -545,7 +561,7 @@ svg {
 
 .stat {
   border-radius: 1rem;
-  background: color-mix(in oklab, var(--primary-foreground) 10%, transparent);
+  background: rgba(255, 251, 244, 0.1);
   padding: 1rem 0.75rem;
 }
 
@@ -614,7 +630,7 @@ svg {
   margin-top: 0.5rem;
   font-size: 0.75rem;
   font-weight: 600;
-  color: color-mix(in oklab, var(--foreground) 80%, transparent);
+  color: rgba(39, 17, 67, 0.8);
 }
 
 /* ============ Sections ============ */
@@ -1272,13 +1288,13 @@ svg {
   display: grid;
   gap: 0.5rem;
   font-size: 0.875rem;
-  color: color-mix(in oklab, var(--foreground) 80%, transparent);
+  color: rgba(39, 17, 67, 0.8);
 }
 
 .timings-card p {
   margin-top: 0.75rem;
   font-size: 0.875rem;
-  color: color-mix(in oklab, var(--foreground) 80%, transparent);
+  color: rgba(39, 17, 67, 0.8);
 }
 
 .map-frame {
@@ -1437,7 +1453,7 @@ svg {
 }
 
 .footer-bottom {
-  border-top: 1px solid color-mix(in oklab, var(--primary-foreground) 15%, transparent);
+  border-top: 1px solid rgba(255, 251, 244, 0.15);
   padding-block: 1.25rem;
   text-align: center;
   font-size: 0.75rem;
@@ -1640,7 +1656,7 @@ svg {
 }
 
 .fw-box.at-home {
-  background: color-mix(in oklab, var(--accent) 20%, transparent);
+  background: rgba(249, 183, 63, 0.2);
 }
 
 .fw-box h3 {
@@ -1653,7 +1669,7 @@ svg {
   margin-top: 0.25rem;
   font-size: 0.875rem;
   line-height: 1.55;
-  color: color-mix(in oklab, var(--foreground) 80%, transparent);
+  color: rgba(39, 17, 67, 0.8);
 }
 
 /* ============ Admissions page ============ */
