@@ -1,0 +1,667 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "programs": "Programs",
+    "approach": "Our Approach",
+    "safety": "Safety & Care",
+    "journal": "Journal",
+    "moments": "Moments",
+    "training": "Teacher Training",
+    "admission": "Admission",
+    "contact": "Contact",
+    "call": "Call"
+  },
+  "footer": {
+    "desc": "A warm, safe and government-registered preschool in Satpur, Nashik. Playgroup, Nursery, Junior KG and Senior KG for children aged 2 to 6 years.",
+    "reach": "Reach us",
+    "timings": "School timings",
+    "whatsapp": "WhatsApp us",
+    "admissionEnquiry": "Admission enquiry"
+  },
+  "common": {
+    "explore": "Explore",
+    "readMore": "Read article"
+  },
+  "home": {
+    "hero": {
+      "title": "Every big journey begins with a <span class=\"accent\">first step</span>",
+      "sub": "Shri Swami Samarth Krupa Foundation's First Step Preschool — a warm, safe and government-registered preschool for children aged <strong>2 to 6 years</strong>.",
+      "ctaAdmissions": "Admission open",
+      "ctaWhatsapp": "WhatsApp us",
+      "statChildren": "children enrolled",
+      "statPrograms": "programs, 2–6 years",
+      "statEstablished": "established"
+    },
+    "strip": {
+      "classrooms": "5 large classrooms",
+      "campus": "5500 sq ft total campus",
+      "cctv": "Full CCTV coverage",
+      "digital": "Projector, TV & speakers",
+      "registered": "Government registered",
+      "van": "Van service available"
+    },
+    "why": {
+      "eyebrow": "Why First Step",
+      "title": "A preschool that feels like a second home",
+      "c1": { "title": "Personal attention", "desc": "Small groups, separate classrooms and teachers who know every child by name and by nature." },
+      "c2": { "title": "Safe and spacious", "desc": "A 5500 sq ft private campus with full CCTV coverage, wide classrooms and a secure playground." },
+      "c3": { "title": "Registered and trusted", "desc": "A government-registered preschool run by Shri Swami Samarth Krupa Foundation, with daily updates shared with parents." }
+    },
+    "programs": {
+      "eyebrow": "Our programs",
+      "title": "Four steps, from 2 to 6 years",
+      "lead": "Each program builds on the last, so children move forward at their own comfortable pace.",
+      "playgroup": { "age": "2+ years", "desc": "A gentle first step into school life — songs, play and warm routines." },
+      "nursery": { "age": "3+ years", "desc": "Language, numbers and social skills blossom through play-based learning." },
+      "junior": { "age": "4+ years", "desc": "Letters, sounds and fine motor skills, taught through stories and activities." },
+      "senior": { "age": "5+ years", "desc": "Pre-reading, pre-writing and confidence to step into Standard 1 with ease." }
+    },
+    "framework": {
+      "eyebrow": "The First Step Growth Framework",
+      "title": "<span class=\"line\">We don't just teach subjects.</span><span class=\"line\">We grow children.</span>",
+      "lead": "Six areas of development guide everything we plan in the classroom, and everything we suggest at home.",
+      "f1": { "title": "Language & Communication", "sub": "Listening, speaking, expressing", "desc": "Between 2 and 6, a child moves from single words to full conversations. This is the base every other subject stands on." },
+      "f2": { "title": "Early Numeracy & Thinking", "sub": "Counting, patterns, reasoning", "desc": "Numbers become real when children touch, sort and count actual things - not when they memorise them." },
+      "f3": { "title": "Body & Movement", "sub": "Gross motor, fine motor, balance", "desc": "Strong shoulders and steady fingers come before neat handwriting. Physical play is academic preparation." },
+      "f4": { "title": "Social Skills & Friendship", "sub": "Sharing, cooperation, belonging", "desc": "School is often a child's first community. Learning to share and take turns is a lifelong skill learnt here." },
+      "f5": { "title": "Feelings & Confidence", "sub": "Emotions, self-regulation, courage", "desc": "A child who can name what they feel is far calmer than a child who cannot. Confidence grows from being heard." },
+      "f6": { "title": "Creativity, Values & Independence", "sub": "Imagination, character, self-help", "desc": "Imagination and good habits are formed early. So is the pride of doing something without help." },
+      "cta": "See our full approach"
+    },
+    "cta": {
+      "titleHtml": "Admission is open for <span class=\"cta-accent\">2 to 6 year olds</span>",
+      "text": "Visit the school, meet the teachers, see the classrooms and the playground. We'd love to show you around.",
+      "enquire": "Enquire now",
+      "call": "Call +91 88500 75624"
+    }
+  },
+  "moments": {
+    "eyebrow": "First Step Moments",
+    "title": "Little moments, big memories",
+    "lead": "A glimpse of life, learning and play at our campus — our spaces, our activities and our children.",
+    "filterAll": "All",
+    "empty": "No photos in this category yet — check back soon.",
+    "note": "Sample photos are shown for now. They will be replaced with real First Step photographs.",
+    "testimonialsEyebrow": "From our parents",
+    "testimonialsTitle": "What parents say about First Step",
+    "testimonialsLead": "We are proud of the trust our families place in us.",
+    "testimonialsNote": "Sample testimonials are shown for now and will be replaced with real parent words.",
+    "pageEyebrow": "First Step Moments",
+    "pageTitle": "A journal of our school events",
+    "pageLead": "Photos and memories from celebrations, activities and everyday life at First Step Preschool.",
+    "pageNote": "Sample events are shown for now. Real photos and event details will be added as they happen.",
+    "event": {
+      "0": { "title": "Annual Day Celebration", "desc": "Children performed dances, skits and songs at the Annual Day celebration. Parents joined us for a wonderful evening of performances and awards." },
+      "1": { "title": "Republic Day Celebration", "desc": "Students participated in flag hoisting and patriotic songs. Children dressed in tri-colour outfits and performed a special assembly." },
+      "2": { "title": "Sports Day", "desc": "A fun-filled sports day with relay races, ball games and obstacle courses. Every child participated and received a medal for their enthusiasm." },
+      "3": { "title": "Christmas Celebration", "desc": "Children decorated the Christmas tree, made paper stars and performed carols. Santa visited the school with gifts for everyone." },
+      "4": { "title": "Art Exhibition", "desc": "Students showcased their artwork including paintings, drawings and craft projects. Parents walked through the exhibition and admired the creativity." }
+    },
+    "cat": {
+      "campus": { "label": "Campus" },
+      "classrooms": { "label": "Classrooms" },
+      "activities": { "label": "Activities" },
+      "outdoor": { "label": "Outdoor Play" },
+      "celebrations": { "label": "Celebrations & Events" },
+      "programmes": { "label": "Special Programmes" }
+    },
+    "item": {
+      "0": { "title": "Our campus entrance" },
+      "1": { "title": "Welcoming spaces" },
+      "2": { "title": "Bright classrooms" },
+      "3": { "title": "Learning corners" },
+      "4": { "title": "Hands-on activities" },
+      "5": { "title": "Art and craft time" },
+      "6": { "title": "Outdoor play" },
+      "7": { "title": "Our playground" },
+      "8": { "title": "Festival celebrations" },
+      "9": { "title": "School events" },
+      "10": { "title": "Special sessions" },
+      "11": { "title": "Learning experiences" }
+    },
+    "testimonial": {
+      "0": {
+        "quote": "We chose First Step for the space and the warmth. Our daughter looks forward to school every single morning and comes home with a new song or story each day.",
+        "name": "Parent of a Playgroup child",
+        "role": "Sample testimonial — real parent words will appear here"
+      },
+      "1": {
+        "quote": "The teachers know every child by name and by nature. As parents, we always know exactly what is happening in the classroom — and that trust makes all the difference.",
+        "name": "Parent of a Nursery child",
+        "role": "Sample testimonial — real parent words will appear here"
+      },
+      "2": {
+        "quote": "Our son moved from being shy to confidently participating in circle time. The transition to school was gentle, and now he tells us his teachers are his best friends.",
+        "name": "Parent of a Junior KG child",
+        "role": "Sample testimonial — real parent words will appear here"
+      }
+    }
+  },
+  "article": {
+    "minRead": "min read",
+    "related": "Related articles",
+    "back": "Back to the Journal"
+  },
+  "journal": {
+    "eyebrow": "First Step Journal",
+    "homeTitle": "Ideas for growing happy, curious children",
+    "homeLead": "Practical articles for parents on child development, school readiness, parenting and early learning.",
+    "viewAll": "Visit the Journal",
+    "hero": {
+      "eyebrow": "First Step Journal",
+      "title": "Ideas for raising happy, curious children",
+      "lead": "A journal of practical knowledge for parents — child development, parenting, school readiness, early learning and life at First Step. Read, learn and share."
+    },
+    "allArticles": "All articles",
+    "empty": "No posts in this category yet — check back soon. Real First Step announcements will also appear here.",
+    "cta": {
+      "eyebrow": "Stay connected",
+      "title": "Get parent tips and First Step updates",
+      "lead": "Subscribe to our WhatsApp updates for new articles, gentle parenting ideas and useful reminders.",
+      "btn": "Join on WhatsApp",
+      "admissions": "Admission enquiry"
+    },
+    "cat": {
+      "child-development": { "label": "Child Development" },
+      "school-readiness": { "label": "School Readiness" },
+      "parenting": { "label": "Parenting" },
+      "health-safety": { "label": "Health & Safety" },
+      "learning-at-first-step": { "label": "Learning at First Step" },
+      "parent-awareness": { "label": "Parent Awareness" },
+      "activities-events": { "label": "Activities & Events" },
+      "announcements": { "label": "Announcements" }
+    },
+    "why-play-is-real-work": {
+      "title": "Why Play Is the Real Work of Childhood",
+      "excerpt": "Play looks like fun, but it is serious learning. Through play, children build language, thinking, movement and confidence — one game at a time."
+    },
+    "preparing-child-first-day": {
+      "title": "Preparing Your Child for Their First Day at Preschool",
+      "excerpt": "A little preparation goes a long way. These simple, gentle steps help your child feel safe and excited about their first day — not scared."
+    },
+    "separation-anxiety-gentle-guide": {
+      "title": "Understanding Separation Anxiety: A Gentle Guide for Parents",
+      "excerpt": "Tears at the classroom door are not a sign that something is wrong. Separation anxiety is a healthy sign of attachment — and it passes."
+    },
+    "screen-time-young-children": {
+      "title": "Screen Time and Young Children: Finding a Healthy Balance",
+      "excerpt": "Screens are everywhere, and a little television or a video call with grandparents is not a failure. What matters is what children watch, and what surrounds the screen."
+    },
+    "storytelling-language-imagination": {
+      "title": "How Storytelling Builds Language and Imagination",
+      "excerpt": "Stories are one of the oldest and best tools for building language. A child who is told stories grows richer vocabulary, stronger listening and wilder imagination."
+    },
+    "building-independence-at-home": {
+      "title": "Building Independence at Home: Little Jobs, Big Confidence",
+      "excerpt": "Independence is not born overnight. It is built one tiny “I did it myself” at a time — and the home is the best classroom for it."
+    },
+    "outdoor-play-matters": {
+      "title": "Why Outdoor Play Matters for Growing Bodies and Minds",
+      "excerpt": "Fresh air, open space and sunshine are not a luxury in early childhood — they are part of the curriculum. Outdoor play builds bodies, balance and brave minds."
+    },
+    "naming-emotions": {
+      "title": "Helping Children Name and Express Their Emotions",
+      "excerpt": "A child who can say “I am angry” is calmer than a child who only screams. Naming feelings is a skill we can gently teach from the toddler years."
+    },
+    "festivals-at-home": {
+      "title": "Celebrating Festivals at Home: Making Traditions Learning Moments",
+      "excerpt": "Festivals are a free and joyful classroom. Food, colours, stories and songs around celebrations teach children about their culture — and about language, numbers and feelings."
+    },
+    "becoming-preschool-teacher": {
+      "title": "Becoming a Preschool Teacher: What It Takes",
+      "excerpt": "A preschool teacher does more than teach letters. They shape how a child feels about learning itself. Here is what the role really asks — and why it is so rewarding."
+    }
+  },
+  "training": {
+    "eyebrow": "Teacher Training",
+    "homeTitle": "Learn to teach with real classroom experience",
+    "homeLead": "Shri Swami Samarth Krupa Foundation's First Step Preschool Teacher Training Program — a 9-month practical programme built around hands-on experience, understanding children and real classroom practice, with certification on completion.",
+    "factMonths": "9 months",
+    "factDuration": "practical learning journey",
+    "factClassroom": "Classroom",
+    "factClassroomDesc": "hands-on experience with children",
+    "factCert": "Certificate",
+    "factCertDesc": "provided on completion",
+    "explore": "Explore the programme",
+    "enquire": "Enquire on WhatsApp",
+    "hero": {
+      "eyebrow": "Teacher Training",
+      "title": "First Step Preschool Teacher Training Program",
+      "subtitle": "9-Month Practical Preschool Teacher Training Programme",
+      "tagline": "Learn. Communicate. Understand. Educate. Grow.",
+      "lead": "A 9-month practical programme where participants learn by being with children — in real classrooms, with real activities, under real guidance. On completion, you receive a certificate from the programme."
+    },
+    "why": {
+      "eyebrow": "Why this programme?",
+      "title": "Because teaching young children is a skill you practise, not just study",
+      "lead": "Theory matters, but teaching children is something you learn by doing — and by watching children closely.",
+      "c1": { "title": "Hands-on from day one", "desc": "Participants are in classrooms and with children early, not only at the end of the course." },
+      "c2": { "title": "Real classroom experience", "desc": "Practice happens in a working preschool — with real children, real schedules and real guidance." },
+      "c3": { "title": "Understanding, not memorising", "desc": "We focus on why children behave the way they do, so you respond with understanding, not frustration." },
+      "c4": { "title": "Certificate on completion", "desc": "Finish the programme and receive a certificate recognising your practical learning." }
+    },
+    "learn": {
+      "eyebrow": "What you will learn",
+      "title": "Key learning areas",
+      "lead": "The programme covers the knowledge and skills a preschool teacher really uses.",
+      "l1": { "title": "Child development", "desc": "How children grow, think and feel at different ages." },
+      "l2": { "title": "Building language", "desc": "Stories, rhymes and conversation that grow vocabulary." },
+      "l3": { "title": "Early numeracy", "desc": "Numbers, patterns and thinking through play." },
+      "l4": { "title": "Movement and motor skills", "desc": "Outdoor play and activities that build bodies and balance." },
+      "l5": { "title": "Social and emotional growth", "desc": "Helping children share, wait, cooperate and express feelings." },
+      "l6": { "title": "Planning activities", "desc": "Designing age-appropriate activities and daily schedules." },
+      "l7": { "title": "Positive guidance", "desc": "Gentle, consistent ways to guide behaviour." },
+      "l8": { "title": "Observing children", "desc": "Watching and understanding children without judging them." },
+      "l9": { "title": "Talking with parents", "desc": "Simple, respectful daily communication with families." },
+      "l10": { "title": "Classroom care and safety", "desc": "Keeping children safe, clean and happy in every corner." }
+    },
+    "handson": {
+      "title": "Hands-on experience",
+      "desc": "From the beginning, participants practise with real materials and real children.",
+      "i1": "Running rhymes and circle time",
+      "i2": "Preparing story sessions and activities",
+      "i3": "Guiding play and craft sessions",
+      "i4": "Managing daily routines with children"
+    },
+    "understand": {
+      "title": "Understanding children",
+      "desc": "When you understand a child, teaching becomes natural.",
+      "i1": "Why young children behave the way they do",
+      "i2": "How to respond with calm and kindness",
+      "i3": "How to build trust and a warm bond",
+      "i4": "When to guide and when to let children lead"
+    },
+    "classroom": {
+      "eyebrow": "Classroom experience",
+      "title": "Learning inside a working preschool",
+      "lead": "The heart of the programme is being with children in real classrooms.",
+      "c1": { "title": "Observing classrooms", "desc": "Watching experienced teachers plan, teach and guide." },
+      "c2": { "title": "Leading sessions", "desc": "Gradually taking charge of rhymes, stories and activities." },
+      "c3": { "title": "Giving and getting feedback", "desc": "Regular, honest feedback from mentors to keep improving." },
+      "c4": { "title": "Daily teaching practice", "desc": "Steady, repeated classroom practice that builds real confidence." }
+    },
+    "journey": {
+      "eyebrow": "Your 9-month journey",
+      "title": "Nine months, one steady path",
+      "lead": "The programme moves from understanding children to confidently leading them.",
+      "s1": "Discover — the foundation of child development",
+      "s2": "Observe — watching children in classrooms",
+      "s3": "Understand — why children behave the way they do",
+      "s4": "Practise — supporting activities and routines",
+      "s5": "Lead — running your own sessions with guidance",
+      "s6": "Plan — designing activities for different ages",
+      "s7": "Refine — improving with regular feedback",
+      "s8": "Present — demonstrating your own teaching",
+      "s9": "Grow — moving forward with confidence"
+    },
+    "who": {
+      "title": "Who can join?",
+      "i1": "Anyone who loves working with young children",
+      "i2": "Aspiring preschool teachers and educators",
+      "i3": "Parents who want to understand children better",
+      "i4": "Anganwadi helpers and caregivers",
+      "i5": "New graduates looking for a meaningful career"
+    },
+    "experience": {
+      "title": "The learning experience",
+      "desc": "This is not a lecture-based course. Learning happens through doing, with mentors close by.",
+      "i1": "Sessions at the First Step campus",
+      "i2": "Real classrooms with real children",
+      "i3": "Mentors who guide you through practice",
+      "i4": "Materials and activities you can use immediately",
+      "i5": "A close, supportive learning group"
+    },
+    "cert": {
+      "title": "Certification",
+      "desc": "On successful completion of the 9-month programme, you receive a certificate from First Step Preschool.",
+      "i1": "A record of completing the full programme",
+      "i2": "A recognition of your practical classroom experience",
+      "i3": "A recognition of the learning and growth across your journey",
+      "notes": {
+        "title": "Good to know",
+        "i1": "Certification is provided on successful completion of the programme.",
+        "i2": "The focus is real learning and real classroom confidence — not just a certificate.",
+        "i3": "For any questions about the programme, eligibility or fees, please ask us directly."
+      }
+    },
+    "gallery": {
+      "eyebrow": "Programme photographs",
+      "title": "Inside the training experience",
+      "lead": "Training sessions, classroom practice and moments from the programme journey.",
+      "note": "Sample photos are shown for now and will be replaced with real programme photographs."
+    },
+    "cat": {
+      "sessions": { "label": "Training Sessions" },
+      "classroom": { "label": "Classroom Experience" },
+      "activities": { "label": "Activities" },
+      "workshops": { "label": "Workshops" },
+      "practical": { "label": "Practical Learning" },
+      "certificates": { "label": "Certificate Distribution" }
+    },
+    "item": {
+      "0": { "title": "Training sessions with participants" },
+      "1": { "title": "Interactive workshops" },
+      "2": { "title": "Hands-on classroom practice" },
+      "3": { "title": "Planning child activities" },
+      "4": { "title": "Group learning and discussion" },
+      "5": { "title": "Certificate distribution" }
+    },
+    "testimonials": {
+      "eyebrow": "From our participants",
+      "title": "What programme participants share",
+      "note": "Sample testimonials are shown for now and will be replaced with real participant words."
+    },
+    "testimonial": {
+      "0": {
+        "quote": "The months I spent at First Step changed how I see children completely. I learned more from observing real classrooms than from any book — and I left feeling genuinely prepared to teach.",
+        "name": "Programme participant",
+        "role": "Sample testimonial — real participant words will appear here"
+      },
+      "1": {
+        "quote": "I had read about child development before, but the hands-on experience here made it real. Understanding why children behave the way they do made me confident and calm in the classroom.",
+        "name": "Programme participant",
+        "role": "Sample testimonial — real participant words will appear here"
+      },
+      "2": {
+        "quote": "What stood out was how much practice we got. We were not just learning theory — we were in the classroom, with children, learning through real situations every week.",
+        "name": "Programme participant",
+        "role": "Sample testimonial — real participant words will appear here"
+      }
+    },
+    "enquiry": {
+      "eyebrow": "Enquiry & registration",
+      "title": "Interested in the programme?",
+      "lead": "Ask us anything about the 9-month teacher training programme — we will be happy to share more details and invite you for a visit.",
+      "btn": "Enquire on WhatsApp",
+      "call": "Call +91 88500 75624"
+    }
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "A small school with big intentions",
+    "sub": "First Step Preschool is run by Shri Swami Samarth Krupa Foundation — a trust that has been serving the Satpur community for over 25 years.",
+    "story": {
+      "title": "Our story",
+      "p1": "First Step Preschool began with a simple observation. Around the Foundation's centre in Satpur, young children were learning — but many parents had no trustworthy place close to home to send their little ones.",
+      "p2": "Parents kept asking for a real preschool — safe, close to home and without franchise fees. Today <strong>101+ children</strong> learn here every morning: in large separate classrooms across 2500 sq ft, on a private 3000 sq ft playground, and with parents who know exactly what their child did each day."
+    },
+    "vision": {
+      "title": "Our vision",
+      "desc": "A happy, safe and loving beginning for every child, where learning feels like play and every child is seen."
+    },
+    "mission": {
+      "title": "Our mission",
+      "desc": "To give children aged 2 to 6 a strong foundation through play-based learning, personal attention and the security of a caring school."
+    },
+    "values": {
+      "title": "What we stand for",
+      "v1": { "title": "Care first", "desc": "Every decision starts with the safety and happiness of the child." },
+      "v2": { "title": "Learning through play", "desc": "Children learn best when they are engaged, curious and having fun." },
+      "v3": { "title": "Trust with parents", "desc": "We share daily updates because parenting is a partnership." },
+      "v4": { "title": "Respect for every child", "desc": "Each child is an individual, noticed and valued as they are." },
+      "v5": { "title": "A calm, gentle approach", "desc": "Children grow best in a calm environment with warm, consistent guidance." },
+      "v6": { "title": "Continuous learning", "desc": "Teachers keep learning too, so the school always gets better." }
+    },
+    "foundation": {
+      "title": "Part of the Foundation's wider work",
+      "desc": "The school is one part of Shri Swami Samarth Krupa Foundation's services in Satpur, Nashik. Your child's fees help support the Foundation's ongoing community work.",
+      "cta": "Enquire about admission"
+    }
+  },
+  "framework": {
+    "eyebrow": "Our approach",
+    "title": "The First Step Growth Framework",
+    "sub": "Six areas of development guide everything we plan in the classroom — and everything we suggest at home.",
+    "intro": "A child is not a subject to be taught, but a whole person to be grown. Our framework keeps that growth balanced: language and numbers alongside movement, feelings and friendships.",
+    "atSchool": "At school",
+    "atHome": "At home",
+    "f1": {
+      "title": "Language",
+      "sub": "Words, stories and conversation",
+      "desc": "We fill every day with stories, rhymes, songs and real conversation. Children hear rich language, then begin using it themselves.",
+      "school": "Story time, rhymes, picture books and circle-time conversations.",
+      "home": "Talk about the day, read a picture book, sing songs together."
+    },
+    "f2": {
+      "title": "Numeracy",
+      "sub": "Numbers, patterns and thinking",
+      "desc": "Children meet numbers the natural way — counting children, sorting blocks, noticing patterns. Thinking is taught through puzzles and questions.",
+      "school": "Counting games, sorting activities, patterns and simple puzzles.",
+      "home": "Count stairs and plates; sort socks; spot patterns in clothes and leaves."
+    },
+    "f3": {
+      "title": "Movement",
+      "sub": "Balance, coordination and health",
+      "desc": "Bodies and brains grow together. Running, climbing, balancing and fine-motor activities build coordination, health and confidence.",
+      "school": "Outdoor play, obstacle games, balancing and fine-motor activities.",
+      "home": "Time to run and climb; drawing, scribbling and play with dough."
+    },
+    "f4": {
+      "title": "Social Skills",
+      "sub": "Sharing, caring and cooperating",
+      "desc": "Children learn to be with others — to share, wait, help and play together. These skills matter as much as letters.",
+      "school": "Group activities, taking turns, helping each other and playing together.",
+      "home": "Family meals, playing with cousins, small chores together."
+    },
+    "f5": {
+      "title": "Confidence",
+      "sub": "Trying, asking and speaking up",
+      "desc": "A confident child tries new things, asks questions and speaks up. We build confidence through encouragement and small responsibilities.",
+      "school": "Sharing in circle time, choosing activities, receiving encouragement.",
+      "home": "Let children try things themselves; celebrate effort, not just results."
+    },
+    "f6": {
+      "title": "Creativity",
+      "sub": "Imagining, making and exploring",
+      "desc": "Creativity is thinking, making and expressing — in art, music, drama and open-ended play. It is how children explore and grow.",
+      "school": "Art and craft, music, pretend play and building with blocks.",
+      "home": "Crayons, paper, dress-up clothes and open-ended play materials."
+    }
+  },
+  "safety": {
+    "eyebrow": "Safety & care",
+    "title": "A place you can leave your child without worrying",
+    "sub": "Every corner of First Step is designed with your child's safety in mind — from the entrance to the last corner of the playground.",
+    "s1": {
+      "title": "Large, separate classrooms",
+      "desc": "Each class has its own big, ventilated classroom, so children are never crowded together."
+    },
+    "s2": {
+      "title": "Private, secure campus",
+      "desc": "The whole 5500 sq ft campus is private and enclosed — classrooms of 2500 sq ft and a playground of 3000 sq ft."
+    },
+    "s3": {
+      "title": "Full CCTV coverage",
+      "desc": "CCTV cameras keep watch over classrooms and common areas, and recordings are reviewed regularly."
+    },
+    "s4": {
+      "title": "Safe, supervised play",
+      "desc": "The playground is private and always supervised, so children play freely within a protected space."
+    },
+    "s5": {
+      "title": "Careful handover",
+      "desc": "Children are handed over only to parents or people the parents have authorised, in person."
+    },
+    "s6": {
+      "title": "Clean, hygienic spaces",
+      "desc": "Classrooms and washrooms are cleaned daily, and hygiene routines are part of the school day."
+    },
+    "s7": {
+      "title": "Emergency-ready staff",
+      "desc": "Staff know what to do in an emergency, and the school keeps essential contact details updated."
+    },
+    "s8": {
+      "title": "Safe van service",
+      "desc": "The van service follows a fixed, known route, and every journey is supervised."
+    }
+  },
+  "programs": {
+    "eyebrow": "Our programs",
+    "title": "Playgroup, Nursery, Junior KG & Senior KG",
+    "sub": "Four programs for children aged 2 to 6 years, each building on the last.",
+    "playgroup": {
+      "age": "2+ years",
+      "desc": "A gentle first step into school life — songs, play, stories and warm routines that help little ones feel safe and happy.",
+      "cta": "View Playgroup"
+    },
+    "nursery": {
+      "age": "3+ years",
+      "desc": "Language and social skills blossom as children learn through play, stories, art and music.",
+      "cta": "View Nursery"
+    },
+    "junior": {
+      "age": "4+ years",
+      "desc": "Letters, sounds and fine motor skills, taught through stories, songs and hands-on activities.",
+      "cta": "View Junior KG"
+    },
+    "senior": {
+      "age": "5+ years",
+      "desc": "Pre-reading, pre-writing and growing confidence, so children step into Standard 1 with ease.",
+      "cta": "View Senior KG"
+    }
+  },
+  "prog": {
+    "focus": "What we focus on",
+    "day": "A typical day",
+    "outcome": "By the end of the program",
+    "all": "All programs",
+    "playgroup": {
+      "age": "2+ years",
+      "sub": "A gentle, playful introduction to school life.",
+      "outcomeTitle": "By the end of Playgroup",
+      "outcome": "A child who walks into school smiling, speaks more words each week, and enjoys being with other children.",
+      "enquire": "Enquire about Playgroup",
+      "f1": "Warm routines and care",
+      "f2": "Rhymes, songs and simple stories",
+      "f3": "Play-based learning and activities",
+      "f4": "Small steps in language and speech",
+      "f5": "Making friends and sharing",
+      "d1": "Arrival and free play",
+      "d2": "Circle time with rhymes and songs",
+      "d3": "Play-based learning activity",
+      "d4": "Snack time together",
+      "d5": "Outdoor play and story time"
+    },
+    "nursery": {
+      "age": "3+ years",
+      "sub": "Where language and confidence begin to bloom.",
+      "outcomeTitle": "By the end of Nursery",
+      "outcome": "A child who asks questions confidently, speaks in small sentences, and begins to recognise numbers, colours and shapes.",
+      "enquire": "Enquire about Nursery",
+      "f1": "Language and vocabulary growth",
+      "f2": "Numbers, colours, shapes and patterns",
+      "f3": "Stories, rhymes and conversation",
+      "f4": "Fine motor skills through activities",
+      "f5": "Sharing, waiting and working together",
+      "d1": "Arrival and free play",
+      "d2": "Circle time with rhymes and stories",
+      "d3": "Learning through play activities",
+      "d4": "Snack time together",
+      "d5": "Outdoor play and creative activities"
+    },
+    "junior": {
+      "age": "4+ years",
+      "sub": "Letters, sounds and school readiness.",
+      "outcomeTitle": "By the end of Junior KG",
+      "outcome": "A child who recognises letters and numbers, holds a pencil steadily, listens well and works happily with friends.",
+      "enquire": "Enquire about Junior KG",
+      "f1": "Phonics, letters and sounds",
+      "f2": "Numbers, counting and early writing",
+      "f3": "Listening, speaking and story time",
+      "f4": "Pencil grip and fine motor skills",
+      "f5": "Working in groups with confidence",
+      "d1": "Arrival and free play",
+      "d2": "Circle time and phonics practice",
+      "d3": "Activity-based learning",
+      "d4": "Snack time together",
+      "d5": "Outdoor play and early writing"
+    },
+    "senior": {
+      "age": "5+ years",
+      "sub": "The confident bridge to Standard 1.",
+      "outcomeTitle": "By the end of Senior KG",
+      "outcome": "A child who enters Standard 1 with early reading and writing skills, steady concentration and the confidence to raise their hand.",
+      "enquire": "Enquire about Senior KG",
+      "f1": "Early reading and writing skills",
+      "f2": "Number sense and early maths",
+      "f3": "Attention, listening and routines",
+      "f4": "Independence and responsibility",
+      "f5": "Speaking up and working with others",
+      "d1": "Arrival and free play",
+      "d2": "Circle time and reading practice",
+      "d3": "Maths and writing activities",
+      "d4": "Snack time together",
+      "d5": "Outdoor play and creative activities"
+    }
+  },
+  "admissions": {
+    "eyebrow": "Admission",
+    "title": "Admission open for ages 2 to 6",
+    "sub": "Fill this in and send it to us on WhatsApp — we'll call you back and invite you to visit the school.",
+    "f": {
+      "parent": "Parent's name",
+      "child": "Child's name",
+      "dob": "Child's date of birth",
+      "program": "Program",
+      "phone": "Phone number",
+      "area": "Your area",
+      "areaPlaceholder": "e.g. Shramik Nagar, Satpur",
+      "submit": "Send enquiry on WhatsApp",
+      "note": "Prefer to talk? Call +91 88500 75624 or +91 76663 75569. Fees are shared on enquiry or during your school visit."
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Come and see the school",
+    "sub": "You are welcome to visit during school hours, meet the teachers and look around.",
+    "whatsapp": "WhatsApp +91 88500 75624",
+    "timings": "School timings",
+    "van": "Van service is available for our students."
+  },
+  "seo": {
+    "home": {
+      "title": "First Step Preschool, Nashik | Playgroup, Nursery, Junior KG, Senior KG",
+      "desc": "Shri Swami Samarth Krupa Foundation's First Step Preschool, Nashik. Playgroup, Nursery, Junior KG and Senior KG for children aged 2 to 6 years."
+    },
+    "about": {
+      "title": "About First Step Preschool, Satpur, Nashik",
+      "desc": "First Step Preschool is run by Shri Swami Samarth Krupa Foundation in Satpur, Nashik. Our story, vision, mission and the values we bring to every child."
+    },
+    "programs": {
+      "title": "Programs at First Step Preschool, Satpur Nashik",
+      "desc": "Four programs at First Step Preschool, Satpur Nashik: Playgroup, Nursery, Junior KG and Senior KG for children aged 2 to 6 years."
+    },
+    "framework": {
+      "title": "The First Step Growth Framework | Our Approach",
+      "desc": "The First Step Growth Framework: six areas of development - language, numeracy, movement, social skills, confidence, creativity - that guide learning for children aged 2 to 6."
+    },
+    "safety": {
+      "title": "Safety & Care at First Step Preschool, Satpur Nashik",
+      "desc": "Safety and care at First Step Preschool, Satpur Nashik: large separate classrooms, 5500 sq ft campus, CCTV coverage, government registration and van service."
+    },
+    "admissions": {
+      "title": "Admission at First Step Preschool, Satpur Nashik",
+      "desc": "Admission open at First Step Preschool, Satpur Nashik for children aged 2 to 6 years. Send your enquiry on WhatsApp and visit the school."
+    },
+    "contact": {
+      "title": "Contact First Step Preschool, Satpur, Nashik",
+      "desc": "Contact First Step Preschool, Satpur, Nashik. Visit us, call +91 88500 75624, or message us on WhatsApp."
+    },
+    "journal": {
+      "title": "First Step Journal | Ideas for Parents",
+      "desc": "First Step Journal: practical articles for parents on child development, parenting, school readiness, early learning and life at First Step Preschool."
+    },
+    "training": {
+      "title": "First Step Preschool Teacher Training Program",
+      "desc": "First Step Preschool Teacher Training Program by Shri Swami Samarth Krupa Foundation: a 9-month practical preschool teacher training programme with hands-on experience and certification."
+    },
+    "moments": {
+      "title": "First Step Preschool - Moments",
+      "desc": "Photos, videos and memories from celebrations, activities and everyday life at First Step Preschool, Satpur Nashik."
+    },
+    "article": {
+      "desc": "A practical article for parents from the First Step Journal."
+    }
+  }
+}

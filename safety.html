@@ -5,16 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>First Step Preschool</title>
   <meta name="author" content="Shri Swami Samarth Krupa Foundation" />
-  <meta name="description" content="A 5500 sq ft campus with 2500 sq ft of classrooms, a 3000 sq ft private playground, full CCTV coverage, digital learning setup and van service at First Step Preschool, Satpur, Nashik." />
+  <meta name="description" content="Safety and care at First Step Preschool, Satpur Nashik: large separate classrooms, 5500 sq ft campus, CCTV coverage, government registration and van service." />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="First Step Preschool, Nashik" />
+  <meta property="og:title" content="First Step Preschool" />
+  <meta property="og:description" content="Safety and care at First Step Preschool, Satpur Nashik: large separate classrooms, 5500 sq ft campus, CCTV coverage, government registration and van service." />
+  <meta name="theme-color" content="#4f0490" />
   <link rel="icon" href="favicon.png" type="image/png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;500;600;700&family=Mukta:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="assets/styles.css" />
 </head>
-<body>
+<body data-page="safety" data-base="">
   <a class="sr-only" href="#main-content">Skip to main content</a>
   <header class="site-header">
     <div class="container header-row">
@@ -27,33 +30,43 @@
         </div>
       </a>
       <div class="header-actions">
+        <a href="admissions.html" class="btn btn-gold btn-admissions">
+          <span data-i18n="nav.admission">Admission</span>
+        </a>
         <a href="tel:+918850075624" class="btn btn-gold btn-call">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-4" aria-hidden="true"><path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"></path></svg>
           <span class="hidden-sm">+91 88500 75624</span>
-          <span class="shown-sm">Call</span>
+          <span class="shown-sm" data-i18n="nav.call">Call</span>
         </a>
-        <button type="button" class="nav-toggle" aria-expanded="false" aria-label="Toggle menu" id="navToggle">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16"></path><path d="M4 12h16"></path><path d="M4 19h16"></path></svg>
-        </button>
       </div>
+      <button type="button" class="nav-toggle" aria-expanded="false" aria-label="Toggle menu" id="navToggle">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16"></path><path d="M4 12h16"></path><path d="M4 19h16"></path></svg>
+      </button>
     </div>
     <nav class="main-nav container" id="mainNav" aria-label="Main navigation">
-      <a  href="index.html">Home</a>
-      <a  href="about.html">About</a>
-      <a  href="programs.html">Programs</a>
-      <a  href="framework.html">Our Approach</a>
-      <a class="active" href="safety.html">Safety &amp; Care</a>
-      <a  href="admissions.html">Admissions</a>
-      <a  href="contact.html">Contact</a>
+      <a  href="index.html"><span data-i18n="nav.home">Home</span></a>
+      <a  href="about.html"><span data-i18n="nav.about">About</span></a>
+      <a  href="programs.html"><span data-i18n="nav.programs">Programs</span></a>
+      <a  href="framework.html"><span data-i18n="nav.approach">Our Approach</span></a>
+      <a class="active" href="safety.html"><span data-i18n="nav.safety">Safety &amp; Care</span></a>
+      <a  href="journal.html"><span data-i18n="nav.journal">Journal</span></a>
+      <a  href="moments.html"><span data-i18n="nav.moments">Moments</span></a>
+      <a  href="teacher-training.html"><span data-i18n="nav.training">Teacher Training</span></a>
+      <a  href="contact.html"><span data-i18n="nav.contact">Contact</span></a>
+      <div class="lang-switch" role="group" aria-label="Select language">
+        <button type="button" class="lang-btn" data-lang="en" aria-pressed="true">EN</button>
+        <button type="button" class="lang-btn" data-lang="hi" aria-pressed="false">हिन्दी</button>
+        <button type="button" class="lang-btn" data-lang="mr" aria-pressed="false">मराठी</button>
+      </div>
     </nav>
   </header>
 
   <main class="site-main" id="main-content">
 <section class="page-hero">
   <div class="page-hero-inner">
-    <p class="eyebrow">Safety &amp; care</p>
-    <h1>A place you can leave your child without worrying</h1>
-    <p>Everything listed here exists at our school today &mdash; nothing more, nothing less.</p>
+    <p class="eyebrow" data-i18n="safety.eyebrow">Safety &amp; care</p>
+    <h1 data-i18n="safety.title">A place you can leave your child without worrying</h1>
+    <p data-i18n="safety.sub">Everything listed here exists at our school today &mdash; nothing more, nothing less.</p>
   </div>
 </section>
 
@@ -64,57 +77,57 @@
         <span class="card-icon">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-6" aria-hidden="true"><rect width="18" height="18" x="3" y="3" rx="2"></rect><path d="M3 9h18"></path><path d="M9 21V9"></path></svg>
         </span>
-        <h3>5 large separate classrooms</h3>
-        <p>Every age group has its own big classroom with wide, comfortable seating &mdash; no crowding, no shared corners.</p>
+        <h3 data-i18n="safety.s1.title">5 large separate classrooms</h3>
+        <p data-i18n="safety.s1.desc">Every age group has its own big classroom with wide, comfortable seating &mdash; no crowding, no shared corners.</p>
       </article>
       <article class="card card-pad safety-card">
         <span class="card-icon">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-6" aria-hidden="true"><path d="M10 10v.2A3 3 0 0 1 8.9 16H5a3 3 0 0 1-1-5.8V10a3 3 0 0 1 6 0Z"></path><path d="M7 16v6"></path><path d="M13 19v3"></path><path d="M12 19h8.3a1 1 0 0 0 .7-1.7L18 14h.3a1 1 0 0 0 .7-1.7L16 9h.2a1 1 0 0 0 .8-1.7L13 3l-1.4 1.5"></path></svg>
         </span>
-        <h3>5500 sq ft campus</h3>
-        <p>2500 sq ft of classrooms plus a 3000 sq ft private playground used only by our children, for daily outdoor play, activities and school events.</p>
+        <h3 data-i18n="safety.s2.title">5500 sq ft campus</h3>
+        <p data-i18n="safety.s2.desc">2500 sq ft of classrooms plus a 3000 sq ft private playground used only by our children, for daily outdoor play, activities and school events.</p>
       </article>
       <article class="card card-pad safety-card">
         <span class="card-icon">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-6" aria-hidden="true"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"></path><path d="m9 12 2 2 4-4"></path></svg>
         </span>
-        <h3>Full CCTV coverage</h3>
-        <p>The complete school area is under CCTV surveillance throughout school hours.</p>
+        <h3 data-i18n="safety.s3.title">Full CCTV coverage</h3>
+        <p data-i18n="safety.s3.desc">The complete school area is under CCTV surveillance throughout school hours.</p>
       </article>
       <article class="card card-pad safety-card">
         <span class="card-icon">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-6" aria-hidden="true"><path d="M15.033 9.44a.647.647 0 0 1 0 1.12l-4.065 2.352a.645.645 0 0 1-.968-.56V7.648a.645.645 0 0 1 .967-.56z"></path><path d="M12 17v4"></path><path d="M8 21h8"></path><rect x="2" y="3" width="20" height="14" rx="2"></rect></svg>
         </span>
-        <h3>Digital learning setup</h3>
-        <p>Projector, TV and large speakers used for stories, rhymes, themes and activity sessions.</p>
+        <h3 data-i18n="safety.s4.title">Digital learning setup</h3>
+        <p data-i18n="safety.s4.desc">Projector, TV and large speakers used for stories, rhymes, themes and activity sessions.</p>
       </article>
       <article class="card card-pad safety-card">
         <span class="card-icon">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-6" aria-hidden="true"><path d="M3.85 8.62a4 4 0 0 1 4.78-4.77 4 4 0 0 1 6.74 0 4 4 0 0 1 4.78 4.78 4 4 0 0 1 0 6.74 4 4 0 0 1-4.77 4.78 4 4 0 0 1-6.75 0 4 4 0 0 1-4.78-4.77 4 4 0 0 1 0-6.76Z"></path><path d="m9 12 2 2 4-4"></path></svg>
         </span>
-        <h3>Government registered</h3>
-        <p>First Step Preschool is a government-registered preschool run by Shri Swami Samarth Krupa Foundation.</p>
+        <h3 data-i18n="safety.s5.title">Government registered</h3>
+        <p data-i18n="safety.s5.desc">First Step Preschool is a government-registered preschool run by Shri Swami Samarth Krupa Foundation.</p>
       </article>
       <article class="card card-pad safety-card">
         <span class="card-icon">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-6" aria-hidden="true"><path d="M8 6v6"></path><path d="M15 6v6"></path><path d="M2 12h19.6"></path><path d="M18 18h3s.5-1.7.8-2.8c.1-.4.2-.8.2-1.2 0-.4-.1-.8-.2-1.2l-1.4-5C20.1 6.8 19.1 6 18 6H4a2 2 0 0 0-2 2v10h3"></path><circle cx="7" cy="18" r="2"></circle><path d="M9 18h5"></path><circle cx="16" cy="18" r="2"></circle></svg>
         </span>
-        <h3>Van service available</h3>
-        <p>Safe van service is available for our students across nearby areas of Satpur, Nashik.</p>
+        <h3 data-i18n="safety.s6.title">Van service available</h3>
+        <p data-i18n="safety.s6.desc">Safe van service is available for our students across nearby areas of Satpur, Nashik.</p>
       </article>
       <article class="card card-pad safety-card">
         <span class="card-icon">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-6" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M22 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
         </span>
-        <h3>Professional, friendly staff</h3>
-        <p>Teachers who are patient and warm with children, and easy for parents to talk to.</p>
+        <h3 data-i18n="safety.s7.title">Professional, friendly staff</h3>
+        <p data-i18n="safety.s7.desc">Teachers who are patient and warm with children, and easy for parents to talk to.</p>
       </article>
       <article class="card card-pad safety-card">
         <span class="card-icon">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-6" aria-hidden="true"><path d="m22 8-6 4 6 4V8Z"></path><rect width="14" height="12" x="2" y="6" rx="2" ry="2"></rect></svg>
         </span>
-        <h3>Yearly gathering &amp; functions</h3>
-        <p>Annual gathering and social functions where every child gets a chance on stage.</p>
+        <h3 data-i18n="safety.s8.title">Yearly gathering &amp; functions</h3>
+        <p data-i18n="safety.s8.desc">Annual gathering and social functions where every child gets a chance on stage.</p>
       </article>
     </div>
   </div>
@@ -127,10 +140,10 @@
         <p class="kicker">Shri Swami Samarth Krupa Foundation's</p>
         <h2>First Step Preschool</h2>
         <p class="tagline">Where Learning Begins</p>
-        <p>A government-registered preschool in Satpur, Nashik for children aged 2 to 6 years.</p>
+        <p data-i18n="footer.desc">A government-registered preschool in Satpur, Nashik for children aged 2 to 6 years.</p>
       </div>
       <div class="footer-col">
-        <h3>Reach us</h3>
+        <h3 data-i18n="footer.reach">Reach us</h3>
         <p class="row">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"></path><circle cx="12" cy="10" r="3"></circle></svg>
           <span>Plot No. 8, Jay Ganesh Colony No. 1, Shramik Nagar, Satpur, Nashik, Maharashtra 422007</span>
@@ -149,11 +162,11 @@
         </a>
         <a href="https://wa.me/918850075624">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719"></path></svg>
-          WhatsApp us
+          <span data-i18n="footer.whatsapp">WhatsApp us</span>
         </a>
       </div>
       <div class="footer-col">
-        <h3>School timings</h3>
+        <h3 data-i18n="footer.timings">School timings</h3>
         <p class="row">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"></circle><path d="M12 6v6l4 2"></path></svg>
           <span>Playgroup<br/>9:30 AM &ndash; 12:00 PM</span>
@@ -163,7 +176,7 @@
           <span>Nursery, Junior KG &amp; Senior KG<br/>9:30 AM &ndash; 1:00 PM</span>
         </p>
         <div>
-          <a href="admissions.html" class="btn btn-accent btn-accent-sm">Admission enquiry</a>
+          <a href="admissions.html" class="btn btn-accent btn-accent-sm"><span data-i18n="footer.admissionEnquiry">Admission enquiry</span></a>
         </div>
       </div>
     </div>
@@ -172,6 +185,8 @@
     </div>
   </footer>
 
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/gallery.js"></script>
   <script>
     (function () {
       var toggle = document.getElementById('navToggle');
@@ -180,6 +195,12 @@
         toggle.addEventListener('click', function () {
           var open = nav.classList.toggle('open');
           toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+        });
+        nav.addEventListener('click', function (e) {
+          if (e.target.closest('a') && window.innerWidth < 1024) {
+            nav.classList.remove('open');
+            toggle.setAttribute('aria-expanded', 'false');
+          }
         });
       }
     })();

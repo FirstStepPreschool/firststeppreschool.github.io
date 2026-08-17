@@ -5,16 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>First Step Preschool</title>
   <meta name="author" content="Shri Swami Samarth Krupa Foundation" />
-  <meta name="description" content="Visit First Step Preschool at Plot No. 8, Jay Ganesh Colony No. 1, Shramik Nagar, Satpur, Nashik 422007. Call +91 88500 75624 or WhatsApp us." />
+  <meta name="description" content="Contact First Step Preschool, Satpur, Nashik. Visit us, call +91 88500 75624, or message us on WhatsApp." />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="First Step Preschool, Nashik" />
+  <meta property="og:title" content="First Step Preschool" />
+  <meta property="og:description" content="Contact First Step Preschool, Satpur, Nashik. Visit us, call +91 88500 75624, or message us on WhatsApp." />
+  <meta name="theme-color" content="#4f0490" />
   <link rel="icon" href="favicon.png" type="image/png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;500;600;700&family=Mukta:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="assets/styles.css" />
 </head>
-<body>
+<body data-page="contact" data-base="">
   <a class="sr-only" href="#main-content">Skip to main content</a>
   <header class="site-header">
     <div class="container header-row">
@@ -27,33 +30,43 @@
         </div>
       </a>
       <div class="header-actions">
+        <a href="admissions.html" class="btn btn-gold btn-admissions">
+          <span data-i18n="nav.admission">Admission</span>
+        </a>
         <a href="tel:+918850075624" class="btn btn-gold btn-call">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-4" aria-hidden="true"><path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"></path></svg>
           <span class="hidden-sm">+91 88500 75624</span>
-          <span class="shown-sm">Call</span>
+          <span class="shown-sm" data-i18n="nav.call">Call</span>
         </a>
-        <button type="button" class="nav-toggle" aria-expanded="false" aria-label="Toggle menu" id="navToggle">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16"></path><path d="M4 12h16"></path><path d="M4 19h16"></path></svg>
-        </button>
       </div>
+      <button type="button" class="nav-toggle" aria-expanded="false" aria-label="Toggle menu" id="navToggle">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16"></path><path d="M4 12h16"></path><path d="M4 19h16"></path></svg>
+      </button>
     </div>
     <nav class="main-nav container" id="mainNav" aria-label="Main navigation">
-      <a  href="index.html">Home</a>
-      <a  href="about.html">About</a>
-      <a  href="programs.html">Programs</a>
-      <a  href="framework.html">Our Approach</a>
-      <a  href="safety.html">Safety &amp; Care</a>
-      <a  href="admissions.html">Admissions</a>
-      <a class="active" href="contact.html">Contact</a>
+      <a  href="index.html"><span data-i18n="nav.home">Home</span></a>
+      <a  href="about.html"><span data-i18n="nav.about">About</span></a>
+      <a  href="programs.html"><span data-i18n="nav.programs">Programs</span></a>
+      <a  href="framework.html"><span data-i18n="nav.approach">Our Approach</span></a>
+      <a  href="safety.html"><span data-i18n="nav.safety">Safety &amp; Care</span></a>
+      <a  href="journal.html"><span data-i18n="nav.journal">Journal</span></a>
+      <a  href="moments.html"><span data-i18n="nav.moments">Moments</span></a>
+      <a  href="teacher-training.html"><span data-i18n="nav.training">Teacher Training</span></a>
+      <a class="active" href="contact.html"><span data-i18n="nav.contact">Contact</span></a>
+      <div class="lang-switch" role="group" aria-label="Select language">
+        <button type="button" class="lang-btn" data-lang="en" aria-pressed="true">EN</button>
+        <button type="button" class="lang-btn" data-lang="hi" aria-pressed="false">हिन्दी</button>
+        <button type="button" class="lang-btn" data-lang="mr" aria-pressed="false">मराठी</button>
+      </div>
     </nav>
   </header>
 
   <main class="site-main" id="main-content">
 <section class="page-hero">
   <div class="page-hero-inner">
-    <p class="eyebrow">Contact</p>
-    <h1>Come and see the school</h1>
-    <p>You are welcome to visit during school hours, meet the teachers and look around.</p>
+    <p class="eyebrow" data-i18n="contact.eyebrow">Contact</p>
+    <h1 data-i18n="contact.title">Come and see the school</h1>
+    <p data-i18n="contact.sub">You are welcome to visit during school hours, meet the teachers and look around.</p>
   </div>
 </section>
 
@@ -74,7 +87,7 @@
       </a>
       <a href="https://wa.me/918850075624" class="contact-row contact-link">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-5" aria-hidden="true"><path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719"></path></svg>
-        WhatsApp +91 88500 75624
+        <span data-i18n="contact.whatsapp">WhatsApp +91 88500 75624</span>
       </a>
       <a href="mailto:shrifirststep@gmail.com" class="contact-row contact-link">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-5" aria-hidden="true"><path d="m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"></path><rect x="2" y="4" width="20" height="16" rx="2"></rect></svg>
@@ -83,13 +96,13 @@
       <div class="timings-card">
         <h2>
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-5" aria-hidden="true"><circle cx="12" cy="12" r="10"></circle><path d="M12 6v6l4 2"></path></svg>
-          School timings
+          <span data-i18n="contact.timings">School timings</span>
         </h2>
         <ul>
           <li><strong>Playgroup:</strong> 9:30 AM &ndash; 12:00 PM</li>
           <li><strong>Nursery, Junior KG &amp; Senior KG:</strong> 9:30 AM &ndash; 1:00 PM</li>
         </ul>
-        <p>Van service is available for our students.</p>
+        <p data-i18n="contact.van">Van service is available for our students.</p>
       </div>
     </div>
     <div class="map-frame">
@@ -105,10 +118,10 @@
         <p class="kicker">Shri Swami Samarth Krupa Foundation's</p>
         <h2>First Step Preschool</h2>
         <p class="tagline">Where Learning Begins</p>
-        <p>A government-registered preschool in Satpur, Nashik for children aged 2 to 6 years.</p>
+        <p data-i18n="footer.desc">A government-registered preschool in Satpur, Nashik for children aged 2 to 6 years.</p>
       </div>
       <div class="footer-col">
-        <h3>Reach us</h3>
+        <h3 data-i18n="footer.reach">Reach us</h3>
         <p class="row">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0"></path><circle cx="12" cy="10" r="3"></circle></svg>
           <span>Plot No. 8, Jay Ganesh Colony No. 1, Shramik Nagar, Satpur, Nashik, Maharashtra 422007</span>
@@ -127,11 +140,11 @@
         </a>
         <a href="https://wa.me/918850075624">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2.992 16.342a2 2 0 0 1 .094 1.167l-1.065 3.29a1 1 0 0 0 1.236 1.168l3.413-.998a2 2 0 0 1 1.099.092 10 10 0 1 0-4.777-4.719"></path></svg>
-          WhatsApp us
+          <span data-i18n="footer.whatsapp">WhatsApp us</span>
         </a>
       </div>
       <div class="footer-col">
-        <h3>School timings</h3>
+        <h3 data-i18n="footer.timings">School timings</h3>
         <p class="row">
           <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"></circle><path d="M12 6v6l4 2"></path></svg>
           <span>Playgroup<br/>9:30 AM &ndash; 12:00 PM</span>
@@ -141,7 +154,7 @@
           <span>Nursery, Junior KG &amp; Senior KG<br/>9:30 AM &ndash; 1:00 PM</span>
         </p>
         <div>
-          <a href="admissions.html" class="btn btn-accent btn-accent-sm">Admission enquiry</a>
+          <a href="admissions.html" class="btn btn-accent btn-accent-sm"><span data-i18n="footer.admissionEnquiry">Admission enquiry</span></a>
         </div>
       </div>
     </div>
@@ -150,6 +163,8 @@
     </div>
   </footer>
 
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/gallery.js"></script>
   <script>
     (function () {
       var toggle = document.getElementById('navToggle');
@@ -158,6 +173,12 @@
         toggle.addEventListener('click', function () {
           var open = nav.classList.toggle('open');
           toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+        });
+        nav.addEventListener('click', function (e) {
+          if (e.target.closest('a') && window.innerWidth < 1024) {
+            nav.classList.remove('open');
+            toggle.setAttribute('aria-expanded', 'false');
+          }
         });
       }
     })();

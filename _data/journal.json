@@ -1,0 +1,370 @@
+{
+  "categories": [
+    { "slug": "parent-awareness", "label": "Parent Awareness" },
+    { "slug": "child-development", "label": "Child Development" },
+    { "slug": "learning-at-first-step", "label": "Learning at First Step" },
+    { "slug": "activities-events", "label": "Activities & Events" },
+    { "slug": "parenting", "label": "Parenting" },
+    { "slug": "school-readiness", "label": "School Readiness" },
+    { "slug": "health-safety", "label": "Health & Safety" },
+    { "slug": "announcements", "label": "Announcements" }
+  ],
+  "articles": [
+    {
+      "slug": "why-play-is-real-work",
+      "title": "Why Play Is the Real Work of Childhood",
+      "category": "child-development",
+      "date": "2026-08-12",
+      "readMinutes": 6,
+      "image": "assets/journal/why-play.svg",
+      "imageAlt": "Illustration of children playing",
+      "excerpt": "Play looks like fun, but it is serious learning. Through play, children build language, thinking, movement and confidence - one game at a time.",
+      "featured": true,
+      "body": [
+        { "t": "p", "v": "If you have ever watched a child lost in play and wondered, \u201cIs anything actually being learned here?\u201d - the honest answer is: more than you think." },
+        { "t": "p", "v": "In early childhood, play is not a break from learning. It <em>is</em> learning. A child stacking blocks is experimenting with balance and cause-and-effect. A child playing shop is practising numbers, words and taking turns. A child pretending to be a doctor is building empathy and imagination." },
+        { "t": "h2", "v": "What play really trains" },
+        { "t": "ul", "v": [
+          "Language: children talk, negotiate and explain while they play",
+          "Thinking: sorting, counting, comparing and solving problems",
+          "Movement: running, balancing, building and using small muscles",
+          "Feelings: practising fear, joy, frustration and patience safely",
+          "People skills: sharing, waiting for a turn and cooperating"
+        ] },
+        { "t": "h2", "v": "Free play and guided play" },
+        { "t": "p", "v": "Children need both kinds. Free play lets them choose, lead and imagine on their own terms. Guided play - where an adult adds a gentle idea or a new material - helps them stretch a little further. A good preschool blends the two: long stretches of free play, with caring teachers adding rhymes, stories and activities in between." },
+        { "t": "quote", "v": "A child who plays well today becomes a child who learns well tomorrow." },
+        { "t": "h2", "v": "What parents can do at home" },
+        { "t": "ol", "v": [
+          "Make time for play every day - not only as a reward after \u201creal\u201d work",
+          "Give open-ended materials: blocks, boxes, water, dough, paper",
+          "Play with your child sometimes, and step back other times",
+          "Talk about the play: \u201cWhat are you building?\u201d",
+          "Let boredom happen - it is where imagination starts"
+        ] },
+        { "t": "p", "v": "At First Step, play sits at the centre of every classroom plan. When you see your child covered in paint or busy with sand, do not apologise for the mess. You are looking at the most natural learning machine in the world." }
+      ],
+      "hiBody": [
+        { "t": "p", "v": "अगर आपने कभी किसी बच्चे को खेल में डूबा देखा है और सोचा है, “क्या यहाँ सच में कुछ सीखा जा रहा है?” - तो ईमानदार जवाब है: जितना आप सोचते हैं, उससे कहीं ज़्यादा।" },
+        { "t": "p", "v": "छोटे बचपन में खेल सीखने से अलग नहीं है - <em>खेल ही</em> सीखना है। ब्लॉक जोड़ने वाला बच्चा संतुलन और कारण-और-प्रभाव का प्रयोग कर रहा होता है। दुकान का खेल खेलने वाला बच्चा अंक, शब्द और बारी-बारी का अभ्यास कर रहा होता है। डॉक्टर बनने का नाटक करने वाला बच्चा सहानुभूति और कल्पना विकसित कर रहा होता है।" },
+        { "t": "h2", "v": "खेल वास्तव में क्या सिखाता है" },
+        { "t": "ul", "v": [
+          "भाषा: बच्चे खेलते समय बात करते हैं, बातचीत करते हैं और समझाते हैं",
+          "सोच: छाँटना, गिनना, तुलना करना और समस्याएँ हल करना",
+          "गतिविधि: दौड़ना, संतुलन, निर्माण और छोटी मांसपेशियों का उपयोग",
+          "भावनाएँ: डर, खुशी, निराशा और धैर्य का सुरक्षित अभ्यास",
+          "सामाजिक कौशल: साझा करना, बारी का इंतज़ार करना और सहयोग करना"
+        ] },
+        { "t": "h2", "v": "मुक्त खेल और मार्गदर्शित खेल" },
+        { "t": "p", "v": "बच्चों को दोनों तरह का खेल चाहिए। मुक्त खेल में वे खुद चुनते हैं, नेतृत्व करते हैं और अपनी शर्तों पर कल्पना करते हैं। मार्गदर्शित खेल - जहाँ एक वयस्क हल्का-सा विचार या नई सामग्री जोड़ता है - उन्हें थोड़ा और आगे बढ़ने में मदद करता है। एक अच्छा प्रीस्कूल दोनों को मिलाता है: लंबे समय का मुक्त खेल, और बीच-बीच में प्यार भरे शिक्षक जो कविताएँ, कहानियाँ और गतिविधियाँ जोड़ते हैं।" },
+        { "t": "quote", "v": "जो बच्चा आज अच्छा खेलता है, वही कल अच्छा सीखता है।" },
+        { "t": "h2", "v": "माता-पिता घर पर क्या कर सकते हैं" },
+        { "t": "ol", "v": [
+          "हर दिन खेल के लिए समय निकालें - केवल “असली” काम के बाद के इनाम के रूप में नहीं",
+          "खुली सामग्री दें: ब्लॉक, डिब्बे, पानी, आटा, कागज़",
+          "कभी अपने बच्चे के साथ खेलें, और कभी पीछे हटकर देखें",
+          "खेल के बारे में बात करें: “क्या बना रहे हो?”",
+          "बोरियत को होने दें - कल्पना यहीं से शुरू होती है"
+        ] },
+        { "t": "p", "v": "First Step में खेल हर कक्षा की योजना के केंद्र में है। जब आप अपने बच्चे को रंग से सना या रेत में व्यस्त देखें, तो गंदगी के लिए माफ़ी न माँगें। आप दुनिया की सबसे स्वाभाविक सीखने की मशीन को देख रहे हैं।" }
+      ],
+      "mrBody": [
+        { "t": "p", "v": "एखाद्या मुलाला खेळात रमलेले पाहून तुम्ही कधी विचार केला असेल, “यातून खरंच काही शिकत आहे का?” - तर प्रामाणिक उत्तर आहे: तुम्ही विचार करता त्यापेक्षा खूप जास्त." },
+        { "t": "p", "v": "लहानपणी खेळ हा शिकण्यापासून सुट्टी नसतो - <em>तोच</em> शिकणे असतो. ब्लॉक रचणारे मूल तोल आणि कारण-आणि-परिणाम याचा प्रयोग करत असते. दुकानाचा खेळ खेळणारे मूल अंक, शब्द आणि आळीपाळीचा सराव करत असते. डॉक्टर होण्याचे नाटक करणारे मूल सहानुभूती आणि कल्पनाशक्ती वाढवत असते." },
+        { "t": "h2", "v": "खेळ प्रत्यक्षात काय शिकवतो" },
+        { "t": "ul", "v": [
+          "भाषा: मुले खेळताना बोलतात, चर्चा करतात आणि समजावतात",
+          "विचार: वर्गीकरण, मोजणी, तुलना आणि समस्या सोडवणे",
+          "हालचाल: धावणे, तोल, रचना आणि छोट्या स्नायूंचा वापर",
+          "भावना: भीती, आनंद, निराशा आणि संयमाचा सुरक्षित सराव",
+          "सामाजिक कौशल्य: वाटून घेणे, आळीची वाट पाहणे आणि सहकार्य"
+        ] },
+        { "t": "h2", "v": "मुक्त खेळ आणि मार्गदर्शित खेळ" },
+        { "t": "p", "v": "मुलांना दोन्ही प्रकारचा खेळ हवा असतो. मुक्त खेळात ते स्वतः निवडतात, पुढाकार घेतात आणि स्वतःच्या पद्धतीने कल्पना करतात. मार्गदर्शित खेळ - जिथे एक प्रौढ सौम्य कल्पना किंवा नवीन सामग्री जोडतो - त्यांना थोडे पुढे नेण्यास मदत करतो. चांगली प्रीस्कूल दोन्ही एकत्र आणते: भरपूर मुक्त खेळ, आणि दरम्यान प्रेमळ शिक्षक गाणी, गोष्टी आणि उपक्रम जोडतात." },
+        { "t": "quote", "v": "जे मूल आज चांगले खेळते, तेच उद्या चांगले शिकते." },
+        { "t": "h2", "v": "पालक घरी काय करू शकतात" },
+        { "t": "ol", "v": [
+          "दररोज खेळासाठी वेळ काढा - केवळ “खरे” कामानंतरचे बक्षीस म्हणून नव्हे",
+          "मोकळी सामग्री द्या: ब्लॉक, पेट्या, पाणी, पीठ, कागद",
+          "कधी मुलासोबत खेळा, आणि कधी मागे सरून निरीक्षण करा",
+          "खेळाबद्दल बोला: “काय बनवतो आहेस?”",
+          "कंटाळा येऊ द्या - कल्पना इथूनच सुरू होते"
+        ] },
+        { "t": "p", "v": "First Step मध्ये खेळ हा प्रत्येक वर्गाच्या नियोजनाच्या केंद्रस्थानी आहे. तुमचे मूल रंगाने माखलेले किंवा वाळूत व्यस्त दिसले, तर गबाळपणाबद्दल माफी मागू नका. तुम्ही जगातील सर्वात नैसर्गिक शिकण्याच्या यंत्राकडे पाहत आहात." }
+      ]
+    },
+    {
+      "slug": "preparing-child-first-day",
+      "title": "Preparing Your Child for Their First Day at Preschool",
+      "category": "school-readiness",
+      "date": "2026-08-05",
+      "readMinutes": 5,
+      "image": "assets/journal/first-day.svg",
+      "imageAlt": "Illustration of a child with a school bag",
+      "excerpt": "A little preparation goes a long way. These simple, gentle steps help your child feel safe and excited about their first day - not scared.",
+      "featured": false,
+      "body": [
+        { "t": "p", "v": "A first day at preschool is a big moment - for the child and for the parent. The child may feel excited, curious or a little nervous. All of it is normal. What parents do in the days before can make the first morning feel far calmer." },
+        { "t": "h2", "v": "Talk about it as a happy story" },
+        { "t": "p", "v": "Talk about school in simple, positive words. \u201cSchool is where you will make friends, play outside and hear lovely stories. Mummy will come to pick you up after playtime.\u201d Keep the promise clear: pick-up is the part a small child most needs to trust." },
+        { "t": "h2", "v": "Build a small routine" },
+        { "t": "ol", "v": [
+          "Practise waking up and having breakfast at school time",
+          "Let your child choose their own school bag or tiffin - even if you fix the details",
+          "Visit the school building once, if possible, so it does not feel unknown",
+          "Do a dry run of the route a day or two before"
+        ] },
+        { "t": "h2", "v": "On the first day" },
+        { "t": "ul", "v": [
+          "Stay calm and cheerful - children read our faces",
+          "Keep goodbye short, warm and certain",
+          "Never slip away secretly; a clear goodbye builds trust",
+          "Hand over to the teacher confidently and walk away"
+        ] },
+        { "t": "p", "v": "Some children settle in a week, some take longer. A warm handover, a predictable routine and a parent who asks \u201cwhat fun thing did you do today?\u201d instead of \u201cdid you cry?\u201d make settling faster and happier." },
+        { "t": "quote", "v": "A confident goodbye is a gift. It tells a child: school is safe, and I will be back." }
+      ]
+    },
+    {
+      "slug": "separation-anxiety-gentle-guide",
+      "title": "Understanding Separation Anxiety: A Gentle Guide for Parents",
+      "category": "parenting",
+      "date": "2026-07-28",
+      "readMinutes": 6,
+      "image": "assets/journal/separation.svg",
+      "imageAlt": "Illustration of a child and parent saying goodbye",
+      "excerpt": "Tears at the classroom door are not a sign that something is wrong. Separation anxiety is a healthy sign of attachment - and it passes.",
+      "featured": false,
+      "body": [
+        { "t": "p", "v": "The classroom door closes and your child cries. Your heart drops. You walk away wondering if you are doing the right thing. Take a breath - this is one of the most common moments in early childhood, and it is a sign of a healthy bond, not a problem." },
+        { "t": "h2", "v": "Why it happens" },
+        { "t": "p", "v": "Before about age two, children rarely feel the difference between \u201cwith you\u201d and \u201cwithout you.\u201d Around preschool age, they understand the difference clearly - and that understanding is the very thing that makes them cling. The child is not rejecting school; they are saying \u201cI love you and I am not sure you are coming back.\u201d" },
+        { "t": "h2", "v": "What helps" },
+        { "t": "ul", "v": [
+          "A quick, warm, confident goodbye - never a long goodbye scene",
+          "Never leaving secretly while the child is distracted",
+          "A consistent pick-up time, kept without fail at the start",
+          "A small comfort object or a family photo in the bag",
+          "Letting the teacher comfort the child once you have left"
+        ] },
+        { "t": "h2", "v": "How long does it last?" },
+        { "t": "p", "v": "For most children, the hardest tears happen in the first week or two. Within a few weeks, most children wave goodbye happily. When the crying stretches on, a warm conversation between parent and teacher - not blame - is the fastest fix. We are on the same team." },
+        { "t": "p", "v": "The kindest truth is this: a child who cries at goodbye and then plays happily at school has learned something important - that the world is safe even when mummy or daddy is not in the room." }
+      ]
+    },
+    {
+      "slug": "screen-time-young-children",
+      "title": "Screen Time and Young Children: Finding a Healthy Balance",
+      "category": "health-safety",
+      "date": "2026-07-21",
+      "readMinutes": 5,
+      "image": "assets/journal/screen-time.svg",
+      "imageAlt": "Illustration of a child and a screen",
+      "excerpt": "Screens are everywhere, and a little television or a video call with grandparents is not a failure. What matters is what children watch, and what surrounds the screen.",
+      "featured": false,
+      "body": [
+        { "t": "p", "v": "Most families today ask the same question: how much screen time is okay for a young child? There is no single perfect number, but there is a simple guiding idea - it is not just how long a child watches, but what they watch and what happens around it." },
+        { "t": "h2", "v": "Why balance matters" },
+        { "t": "p", "v": "Young children learn through their bodies, voices, hands and real relationships. Screens are useful, but they cannot hug, play, climb or talk back. When a screen replaces real play and real conversation for long stretches, the learning that matters most slows down." },
+        { "t": "h2", "v": "Simple, practical rules" },
+        { "t": "ul", "v": [
+          "Choose slow, simple, age-appropriate content and watch it with your child",
+          "Talk about what you watched together - this turns passive viewing into language",
+          "Keep mealtimes and bedtime screen-free",
+          "Keep screens out of reach at night; young children need calm and darkness to sleep well",
+          "Make the real world slightly more interesting: keep books, blocks and outdoor time ready"
+        ] },
+        { "t": "h2", "v": "The goal is not perfection" },
+        { "t": "p", "v": "A tired parent on a rainy evening will reach for a video, and that is okay. The goal is balance, not perfection. What children need most is not zero screens - it is regular doses of real world: running outside, making a mess with art, telling stories, and being listened to." }
+      ]
+    },
+    {
+      "slug": "storytelling-language-imagination",
+      "title": "How Storytelling Builds Language and Imagination",
+      "category": "learning-at-first-step",
+      "date": "2026-07-14",
+      "readMinutes": 5,
+      "image": "assets/journal/storytelling.svg",
+      "imageAlt": "Illustration of a parent reading to a child",
+      "excerpt": "Stories are one of the oldest and best tools for building language. A child who is told stories grows richer vocabulary, stronger listening and wilder imagination.",
+      "featured": false,
+      "body": [
+        { "t": "p", "v": "Before books, before worksheets, before phonics charts - there were stories. And in early childhood, stories are still one of the most powerful teaching tools we have. They cost nothing, they can happen anywhere, and they teach language better than most flashcards." },
+        { "t": "h2", "v": "What stories give a child" },
+        { "t": "ul", "v": [
+          "Vocabulary: stories carry richer words than everyday conversation",
+          "Listening: a child follows a beginning, a middle and an end",
+          "Sequence: understanding \u201cfirst, then, after\u201d builds thinking",
+          "Imagination: a child pictures the jungle, the sea and the castle",
+          "Feeling: children feel brave with heroes and safe with kind endings"
+        ] },
+        { "t": "h2", "v": "At school and at home" },
+        { "t": "p", "v": "At First Step, storytelling is woven through every day - picture talk, puppets, action rhymes and stories told with our projector and speakers. At home, you do not need a single book to begin. Tell the story of the day you were born, or invent one about your child\u2019s favourite toy." },
+        { "t": "h2", "v": "Make it interactive" },
+        { "t": "ol", "v": [
+          "Ask \u201cwhat do you think happens next?\u201d and wait for the answer",
+          "Let your child change the ending - the sillier, the better",
+          "Use voices, faces and sounds; children remember emotion",
+          "Retell the same story often; repetition is how young children master language"
+        ] },
+        { "t": "quote", "v": "The stories a child hears in their first years become the furniture of their mind." }
+      ]
+    },
+    {
+      "slug": "building-independence-at-home",
+      "title": "Building Independence at Home: Little Jobs, Big Confidence",
+      "category": "parent-awareness",
+      "date": "2026-07-07",
+      "readMinutes": 4,
+      "image": "assets/journal/independence.svg",
+      "imageAlt": "Illustration of a child putting on shoes",
+      "excerpt": "Independence is not born overnight. It is built one tiny \u201cI did it myself\u201d at a time - and the home is the best classroom for it.",
+      "featured": false,
+      "body": [
+        { "t": "p", "v": "When a two-year-old insists \u201cI do it myself,\u201d most parents feel a mix of pride and impatience. The pride is right. That stubborn little sentence is the beginning of confidence, and how we answer it shapes how independent a child becomes." },
+        { "t": "h2", "v": "Small jobs, big growth" },
+        { "t": "ul", "v": [
+          "Putting toys back in their box",
+          "Serving themselves water with a small jug",
+          "Putting on their own shoes - even if they are on the wrong feet",
+          "Helping to set the table",
+          "Choosing between two outfits or two books"
+        ] },
+        { "t": "h2", "v": "Why it matters" },
+        { "t": "p", "v": "Every small success teaches a child something huge: \u201cI can do things, and I am useful.\u201d That inner sentence is the foundation of school readiness, confidence and resilience. A child who is always rescued learns that their own efforts do not matter. A child who is trusted learns to trust themselves." },
+        { "t": "h2", "v": "The patient parent\u2019s guide" },
+        { "t": "ol", "v": [
+          "Slow down - let them take the extra minute it costs",
+          "Praise the effort, not just the result: \u201cYou kept trying!\u201d",
+          "Let them make small mistakes; wrong-footed shoes teach nothing harmful",
+          "Offer real choices so independence feels safe",
+          "Accept the mess - it is the price of learning"
+        ] },
+        { "t": "p", "v": "At school we do the same: children pack their own bags, wash their own hands and tidy their own corner. When home and school share this habit, a child learns it everywhere." }
+      ]
+    },
+    {
+      "slug": "outdoor-play-matters",
+      "title": "Why Outdoor Play Matters for Growing Bodies and Minds",
+      "category": "child-development",
+      "date": "2026-06-30",
+      "readMinutes": 5,
+      "image": "assets/journal/outdoor.svg",
+      "imageAlt": "Illustration of children running outside",
+      "excerpt": "Fresh air, open space and sunshine are not a luxury in early childhood - they are part of the curriculum. Outdoor play builds bodies, balance and brave minds.",
+      "featured": false,
+      "body": [
+        { "t": "p", "v": "There is a reason children burst out of the door the moment it opens. Their bodies and brains are wired to move, and movement is how they learn best. Outdoor play is not the opposite of classroom learning - it is a powerful part of it." },
+        { "t": "h2", "v": "What the outdoors teaches" },
+        { "t": "ul", "v": [
+          "Strong muscles and steady balance from running, climbing and jumping",
+          "Confidence - a child who climbs a little higher learns to trust their body",
+          "Thinking - outdoor play is full of decisions, negotiation and risk-telling",
+          "Health - sunlight, fresh air and activity support sleep, appetite and immunity",
+          "Calm - movement helps a busy child release energy and regulate feelings"
+        ] },
+        { "t": "h2", "v": "Why it belongs at preschool" },
+        { "t": "p", "v": "At First Step every child gets daily time on our private 3000 sq ft playground. We treat it as seriously as circle time, because they are the same subject: a child who moves well and plays outdoors arrives back in the classroom calmer, more focused and more ready to learn." },
+        { "t": "h2", "v": "At home" },
+        { "t": "ol", "v": [
+          "Make daily outdoor time non-negotiable when the weather allows",
+          "Let children get properly dirty - it washes off",
+          "Follow their lead: running, rolling, sand, mud, plants, insects",
+          "Resist the urge to organise every minute; free outdoor play is the point"
+        ] },
+        { "t": "quote", "v": "Every time a child plays outdoors, they take a small exam in courage, balance and joy - and they pass." }
+      ]
+    },
+    {
+      "slug": "naming-emotions",
+      "title": "Helping Children Name and Express Their Emotions",
+      "category": "parenting",
+      "date": "2026-06-23",
+      "readMinutes": 5,
+      "image": "assets/journal/emotions.svg",
+      "imageAlt": "Illustration of a child with different feelings",
+      "excerpt": "A child who can say \u201cI am angry\u201d is calmer than a child who only screams. Naming feelings is a skill we can gently teach from the toddler years.",
+      "featured": false,
+      "body": [
+        { "t": "p", "v": "A tantrum in the vegetable aisle is not a parenting failure. It is a small child with a big feeling and no words for it yet. Our job is not to stop the feeling - it is to help children name it, because a feeling that can be named is a feeling that can be managed." },
+        { "t": "h2", "v": "Name it to tame it" },
+        { "t": "p", "v": "When your child is upset, name the emotion calmly: \u201cYou are angry because the tower fell.\u201d This does two things at once. It shows empathy, and it hands the child the exact word they were missing. Over time, the child begins to use those words themselves." },
+        { "t": "h2", "v": "A simple routine for big feelings" },
+        { "t": "ol", "v": [
+          "Stay calm first - your calm is contagious",
+          "Name the feeling: \u201cYou look very frustrated\u201d",
+          "Accept it: \u201cIt is okay to feel angry\u201d",
+          "Set the safe boundary: \u201cIt is not okay to hit\u201d",
+          "Solve or comfort together when the storm passes"
+        ] },
+        { "t": "h2", "v": "Tools that work at any age" },
+        { "t": "ul", "v": [
+          "Feeling faces - draw or show simple faces and ask which one matches today",
+          "Books and stories about characters with feelings",
+          "Deep breaths together - make it a game: smell the flower, blow the candle",
+          "A quiet corner with cushions where a child can feel big feelings safely"
+        ] },
+        { "t": "p", "v": "Children are not born knowing how to manage feelings. They learn it one patient conversation at a time - at home, and in classrooms where a kind teacher says, \u201cI can see you are upset. Let me help you.\u201d" }
+      ]
+    },
+    {
+      "slug": "festivals-at-home",
+      "title": "Celebrating Festivals at Home: Making Traditions Learning Moments",
+      "category": "activities-events",
+      "date": "2026-06-16",
+      "readMinutes": 4,
+      "image": "assets/journal/festivals.svg",
+      "imageAlt": "Illustration of festival decorations",
+      "excerpt": "Festivals are a free and joyful classroom. Food, colours, stories and songs around celebrations teach children about their culture - and about language, numbers and feelings.",
+      "featured": false,
+      "body": [
+        { "t": "p", "v": "Long before there were classrooms, festivals were how communities taught children. There is a reason children adore them - they are loud, bright, sweet and full of family. That joy is also a learning opportunity in disguise." },
+        { "t": "h2", "v": "What festivals teach" },
+        { "t": "ul", "v": [
+          "Language - festival songs, stories and family talk",
+          "Numbers - counting diyas, flowers or ladoos together",
+          "Culture and values - why we celebrate, who we share with",
+          "Fine motor - making rangoli, folding paper, decorating",
+          "Feelings - excitement, patience, gratitude and generosity"
+        ] },
+        { "t": "h2", "v": "Simple ways to involve young children" },
+        { "t": "ol", "v": [
+          "Let children help decorate - even messy, imperfect help",
+          "Tell the story behind the festival in two or three simple lines",
+          "Count things together: lamps, sweets, gifts",
+          "Give children a tiny job: handing out sweets, placing flowers",
+          "Afterwards, ask \u201cwhat did you enjoy most?\u201d - and listen"
+        ] },
+        { "t": "p", "v": "At First Step, festivals are celebrated as learning - children come dressed up, hear the story, sing and share, and always go home with the experience of belonging. When home celebrates with the same spirit, the lesson becomes a memory." }
+      ]
+    },
+    {
+      "slug": "becoming-preschool-teacher",
+      "title": "Becoming a Preschool Teacher: What It Takes",
+      "category": "learning-at-first-step",
+      "date": "2026-06-09",
+      "readMinutes": 6,
+      "image": "assets/journal/teacher.svg",
+      "imageAlt": "Illustration of a teacher with children",
+      "excerpt": "A preschool teacher does more than teach letters. They shape how a child feels about learning itself. Here is what the role really asks - and why it is so rewarding.",
+      "featured": false,
+      "body": [
+        { "t": "p", "v": "Ask a preschool teacher what they do and they will say: teach colours, letters and rhymes. The truer answer is bigger. A preschool teacher shapes how a child feels about school, about people and about their own abilities - in the years when those feelings harden into a lifetime." },
+        { "t": "h2", "v": "It is more than child-minding" },
+        { "t": "p", "v": "A good preschool teacher understands child development: why a three-year-old cannot share a toy calmly, why a four-year-old needs to move, why a five-year-old suddenly asks \u201cwhy\u201d a hundred times. Understanding children makes teaching gentle, patient and effective - instead of merely managing them." },
+        { "t": "h2", "v": "The real skills" },
+        { "t": "ul", "v": [
+          "Communication - with children, and with their parents",
+          "Observation - noticing what a child can and cannot yet do",
+          "Creativity - turning a rainy afternoon into a lesson",
+          "Patience - repeating the same rhyme without losing warmth",
+          "Reflection - noticing what worked today and doing more of it tomorrow"
+        ] },
+        { "t": "h2", "v": "How the skills are learned" },
+        { "t": "p", "v": "These skills are not learned from a book alone. They grow in a real classroom - through watching experienced teachers, working with actual children, planning activities and learning from real situations. That is exactly the model of First Step\u2019s Teacher Training Program: months of guided, hands-on experience in a working preschool, ending in certification." },
+        { "t": "quote", "v": "A preschool teacher plants a forest in a child\u2019s mind - and watches it grow for a lifetime." },
+        { "t": "p", "v": "If the idea of working with young children excites you, read about our Teacher Training Program and how the journey from observer to teacher unfolds." }
+      ]
+    }
+  ]
+}

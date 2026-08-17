@@ -1,0 +1,40 @@
+{
+  "gallery": {
+    "categories": [
+      { "slug": "sessions", "label": "Training Sessions" },
+      { "slug": "classroom", "label": "Classroom Experience" },
+      { "slug": "activities", "label": "Activities" },
+      { "slug": "workshops", "label": "Workshops" },
+      { "slug": "practical", "label": "Practical Learning" },
+      { "slug": "certificates", "label": "Certificate Distribution" }
+    ],
+    "images": [
+      { "src": "assets/training/training-1.svg", "category": "sessions", "title": "Training sessions with participants", "alt": "Placeholder photo - teacher training session" },
+      { "src": "assets/training/training-2.svg", "category": "workshops", "title": "Interactive workshops", "alt": "Placeholder photo - training workshop" },
+      { "src": "assets/training/training-3.svg", "category": "classroom", "title": "Hands-on classroom practice", "alt": "Placeholder photo - classroom practice" },
+      { "src": "assets/training/training-4.svg", "category": "activities", "title": "Planning child activities", "alt": "Placeholder photo - activity planning" },
+      { "src": "assets/training/training-5.svg", "category": "practical", "title": "Group learning and discussion", "alt": "Placeholder photo - group learning" },
+      { "src": "assets/training/training-6.svg", "category": "certificates", "title": "Certificate distribution", "alt": "Placeholder photo - certificate distribution" }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "The months I spent at First Step changed how I see children completely. I learned more from observing real classrooms than from any book - and I left feeling genuinely prepared to teach.",
+      "name": "Programme participant",
+      "role": "Sample testimonial - real participant words will appear here",
+      "placeholder": true
+    },
+    {
+      "quote": "I had read about child development before, but the hands-on experience here made it real. Understanding why children behave the way they do made me confident and calm in the classroom.",
+      "name": "Programme participant",
+      "role": "Sample testimonial - real participant words will appear here",
+      "placeholder": true
+    },
+    {
+      "quote": "What stood out was how much practice we got. We were not just learning theory - we were in the classroom, with children, learning through real situations every week.",
+      "name": "Programme participant",
+      "role": "Sample testimonial - real participant words will appear here",
+      "placeholder": true
+    }
+  ]
+}

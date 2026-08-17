@@ -1,0 +1,103 @@
+{
+  "gallery": {
+    "categories": [
+      { "slug": "campus", "label": "Campus" },
+      { "slug": "classrooms", "label": "Classrooms" },
+      { "slug": "activities", "label": "Activities" },
+      { "slug": "outdoor", "label": "Outdoor Play" },
+      { "slug": "celebrations", "label": "Celebrations & Events" },
+      { "slug": "programmes", "label": "Special Programmes" }
+    ],
+    "images": [
+      { "src": "assets/gallery/campus-1.svg", "category": "campus", "title": "Our campus entrance", "alt": "Placeholder photo - First Step Preschool campus" },
+      { "src": "assets/gallery/campus-2.svg", "category": "campus", "title": "Welcoming spaces", "alt": "Placeholder photo - First Step campus spaces" },
+      { "src": "assets/gallery/classrooms-1.svg", "category": "classrooms", "title": "Bright classrooms", "alt": "Placeholder photo - First Step classroom" },
+      { "src": "assets/gallery/classrooms-2.svg", "category": "classrooms", "title": "Learning corners", "alt": "Placeholder photo - First Step learning corner" },
+      { "src": "assets/gallery/activities-1.svg", "category": "activities", "title": "Hands-on activities", "alt": "Placeholder photo - children doing activities" },
+      { "src": "assets/gallery/activities-2.svg", "category": "activities", "title": "Art and craft time", "alt": "Placeholder photo - art and craft time" },
+      { "src": "assets/gallery/outdoor-1.svg", "category": "outdoor", "title": "Outdoor play", "alt": "Placeholder photo - children playing outdoors" },
+      { "src": "assets/gallery/outdoor-2.svg", "category": "outdoor", "title": "Our playground", "alt": "Placeholder photo - First Step playground" },
+      { "src": "assets/gallery/celebrations-1.svg", "category": "celebrations", "title": "Festival celebrations", "alt": "Placeholder photo - celebration at First Step" },
+      { "src": "assets/gallery/celebrations-2.svg", "category": "celebrations", "title": "School events", "alt": "Placeholder photo - First Step event" },
+      { "src": "assets/gallery/programmes-1.svg", "category": "programmes", "title": "Special sessions", "alt": "Placeholder photo - special programme session" },
+      { "src": "assets/gallery/programmes-2.svg", "category": "programmes", "title": "Learning experiences", "alt": "Placeholder photo - special learning experience" }
+    ]
+  },
+  "events": [
+    {
+      "title": "Annual Day Celebration",
+      "slug": "annual-day-2025",
+      "date": "2025-12-15",
+      "description": "Children performed dances, skits and songs at the Annual Day celebration. Parents joined us for a wonderful evening of performances and awards.",
+      "photos": [
+        { "src": "assets/gallery/celebrations-1.svg", "title": "Stage performance", "alt": "Children performing on stage at Annual Day" },
+        { "src": "assets/gallery/celebrations-2.svg", "title": "Award ceremony", "alt": "Students receiving awards at Annual Day" }
+      ],
+      "videos": []
+    },
+    {
+      "title": "Republic Day Celebration",
+      "slug": "republic-day-2026",
+      "date": "2026-01-26",
+      "description": "Students participated in flag hoisting and patriotic songs. Children dressed in tri-colour outfits and performed a special assembly.",
+      "photos": [
+        { "src": "assets/gallery/programmes-1.svg", "title": "Flag hoisting", "alt": "Republic Day flag hoisting at First Step" },
+        { "src": "assets/gallery/programmes-2.svg", "title": "Patriotic performance", "alt": "Children performing patriotic songs" }
+      ],
+      "videos": []
+    },
+    {
+      "title": "Sports Day",
+      "slug": "sports-day-2026",
+      "date": "2026-02-10",
+      "description": "A fun-filled sports day with relay races, ball games and obstacle courses. Every child participated and received a medal for their enthusiasm.",
+      "photos": [
+        { "src": "assets/gallery/outdoor-1.svg", "title": "Relay race", "alt": "Children participating in relay race" },
+        { "src": "assets/gallery/outdoor-2.svg", "title": "Obstacle course", "alt": "Students on the obstacle course" }
+      ],
+      "videos": []
+    },
+    {
+      "title": "Christmas Celebration",
+      "slug": "christmas-2025",
+      "date": "2025-12-20",
+      "description": "Children decorated the Christmas tree, made paper stars and performed carols. Santa visited the school with gifts for everyone.",
+      "photos": [
+        { "src": "assets/gallery/activities-1.svg", "title": "Tree decoration", "alt": "Children decorating the Christmas tree" },
+        { "src": "assets/gallery/activities-2.svg", "title": "Santa visit", "alt": "Santa Claus visiting First Step Preschool" }
+      ],
+      "videos": []
+    },
+    {
+      "title": "Art Exhibition",
+      "slug": "art-exhibition-2026",
+      "date": "2026-03-05",
+      "description": "Students showcased their artwork including paintings, drawings and craft projects. Parents walked through the exhibition and admired the creativity.",
+      "photos": [
+        { "src": "assets/gallery/classrooms-1.svg", "title": "Art display", "alt": "Student artwork displayed at the exhibition" },
+        { "src": "assets/gallery/classrooms-2.svg", "title": "Craft corner", "alt": "Children showing their craft projects" }
+      ],
+      "videos": []
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "We chose First Step for the space and the warmth. Our daughter looks forward to school every single morning and comes home with a new song or story each day.",
+      "name": "Parent of a Playgroup child",
+      "role": "Sample testimonial - real parent words will appear here",
+      "placeholder": true
+    },
+    {
+      "quote": "The teachers know every child by name and by nature. As parents, we always know exactly what is happening in the classroom - and that trust makes all the difference.",
+      "name": "Parent of a Nursery child",
+      "role": "Sample testimonial - real parent words will appear here",
+      "placeholder": true
+    },
+    {
+      "quote": "Our son moved from being shy to confidently participating in circle time. The transition to school was gentle, and now he tells us his teachers are his best friends.",
+      "name": "Parent of a Junior KG child",
+      "role": "Sample testimonial - real parent words will appear here",
+      "placeholder": true
+    }
+  ]
+}

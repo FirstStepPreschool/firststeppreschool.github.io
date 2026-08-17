@@ -1,0 +1,43 @@
+<section class="page-hero">
+  <div class="page-hero-inner">
+    <p class="eyebrow" data-i18n="journal.hero.eyebrow">First Step Journal</p>
+    <h1 data-i18n="journal.hero.title">Ideas for raising happy, curious children</h1>
+    <p data-i18n="journal.hero.lead">A journal of practical knowledge for parents &mdash; child development, parenting, school readiness, early learning and life at First Step. Read, learn and share.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    {{JOURNAL_FEATURED}}
+  </div>
+</section>
+
+<section class="section section-cream">
+  <div class="container">
+    <div class="section-center">
+      <h2 class="section-title" data-i18n="journal.allArticles">All articles</h2>
+    </div>
+    <div class="filter-chips" data-gallery-filter data-items=".journal-card" data-empty="#journalEmpty" role="group" aria-label="Filter articles by category">
+      <button type="button" class="chip active" data-filter="all" aria-pressed="true"><span data-i18n="moments.filterAll">All</span></button>
+      {{JOURNAL_FILTERS}}
+    </div>
+    <div id="journalEmpty" class="filter-empty is-hidden">
+      <p data-i18n="journal.empty">No posts in this category yet &mdash; check back soon. Real First Step announcements will also appear here.</p>
+    </div>
+    <div class="journal-grid">
+      {{JOURNAL_CARDS}}
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container section-center">
+    <p class="section-eyebrow" data-i18n="journal.cta.eyebrow">Stay connected</p>
+    <h2 class="section-title" data-i18n="journal.cta.title">Get parent tips and First Step updates</h2>
+    <p class="section-lead" data-i18n="journal.cta.lead">Subscribe to our WhatsApp updates for new articles, gentle parenting ideas and useful reminders.</p>
+    <div class="cta-actions">
+      <a href="https://wa.me/918850075624" class="btn btn-cta-arrow"><span data-i18n="journal.cta.btn">Join on WhatsApp</span></a>
+      <a href="{{P}}admissions.html" class="btn-outline-2"><span data-i18n="journal.cta.admissions">Admission enquiry</span></a>
+    </div>
+  </div>
+</section>
